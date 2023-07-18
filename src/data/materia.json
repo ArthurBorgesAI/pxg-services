@@ -1,0 +1,922 @@
+{
+    "id": "MATERIA",
+    "crafts": [
+        {
+            "key": 1,
+            "name": "Volcanic Materia",
+            "icon": "icons/materia/Volcanic_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Fire Stone",
+                    "icon": "icons/stone/Fire_Stone.gif",
+                    "qtde": 4
+                },
+                {
+                    "name": "Volcanic Chemical",
+                    "icon": "icons/chemical/Volcanic_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 2,
+            "name": "Volcanic Enhanced Materia",
+            "icon": "icons/materia/Volcanic_Enhanced_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Fire Stone",
+                    "icon": "icons/stone/Fire_Stone.gif",
+                    "qtde": 15
+                },
+                {
+                    "name": "Volcanic Chemical",
+                    "icon": "icons/chemical/Volcanic_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 3,
+            "name": "Volcanic Superior Materia",
+            "icon": "icons/materia/Volcanic_Superior_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Scarlet Shard",
+                    "icon": "icons/shard/Scarlet_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Volcanic Chemical",
+                    "icon": "icons/chemical/Volcanic_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 4,
+            "name": "Volcanic Mastered Materia",
+            "icon": "icons/materia/Volcanic_Mastered_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Scarlet Shard",
+                    "icon": "icons/shard/Scarlet_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Fire Stone",
+                    "icon": "icons/stone/Fire_Stone.gif",
+                    "qtde": 10
+                },
+                {
+                    "name": "Volcanic Chemical",
+                    "icon": "icons/chemical/Volcanic_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+
+
+
+
+        {
+            "key": 5,
+            "name": "Seavell Materia",
+            "icon": "icons/materia/Seavell_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Water Stone",
+                    "icon": "icons/stone/Water_Stone.gif",
+                    "qtde": 2
+                },
+                {
+                    "name": "Ice Stone",
+                    "icon": "icons/stone/Ice_Stone.gif",
+                    "qtde": 2
+                },
+                {
+                    "name": "Seavell Chemical",
+                    "icon": "icons/chemical/Seavell_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 6,
+            "name": "Seavell Enhanced Materia",
+            "icon": "icons/materia/Seavell_Enhanced_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Water Stone",
+                    "icon": "icons/stone/Water_Stone.gif",
+                    "qtde": 7
+                },
+                {
+                    "name": "Ice Stone",
+                    "icon": "icons/stone/Ice_Stone.gif",
+                    "qtde": 8
+                },
+                {
+                    "name": "Seavell Chemical",
+                    "icon": "icons/chemical/Seavell_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 7,
+            "name": "Seavell Superior Materia",
+            "icon": "icons/materia/Seavell_Superior_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Azure Shard",
+                    "icon": "icons/shard/Azure_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Seavell Chemical",
+                    "icon": "icons/chemical/Seavell_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 8,
+            "name": "Seavell Mastered Materia",
+            "icon": "icons/materia/Seavell_Mastered_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Azure Shard",
+                    "icon": "icons/shard/Azure_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Water Stone",
+                    "icon": "icons/stone/Water_Stone.gif",
+                    "qtde": 5
+                },
+                {
+                    "name": "Ice Stone",
+                    "icon": "icons/stone/Ice_Stone.gif",
+                    "qtde": 5
+                },
+                {
+                    "name": "Seavell Chemical",
+                    "icon": "icons/chemical/Seavell_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+
+
+
+
+        {
+            "key": 9,
+            "name": "Naturia Materia",
+            "icon": "icons/materia/Naturia_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Leaf Stone",
+                    "icon": "icons/stone/Leaf_Stone.gif",
+                    "qtde": 2
+                },
+                {
+                    "name": "Cocoon Stone",
+                    "icon": "icons/stone/Cocoon_Stone.gif",
+                    "qtde": 2
+                },
+                {
+                    "name": "Naturia Chemical",
+                    "icon": "icons/chemical/Naturia_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 10,
+            "name": "Naturia Enhanced Materia",
+            "icon": "icons/materia/Naturia_Enhanced_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Leaf Stone",
+                    "icon": "icons/stone/Leaf_Stone.gif",
+                    "qtde": 7
+                },
+                {
+                    "name": "Cocoon Stone",
+                    "icon": "icons/stone/Cocoon_Stone.gif",
+                    "qtde": 8
+                },
+                {
+                    "name": "Naturia Chemical",
+                    "icon": "icons/chemical/Naturia_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 11,
+            "name": "Naturia Superior Materia",
+            "icon": "icons/materia/Naturia_Superior_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Harlequin Shard",
+                    "icon": "icons/shard/Harlequin_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Naturia Chemical",
+                    "icon": "icons/chemical/Naturia_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 12,
+            "name": "Naturia Mastered Materia",
+            "icon": "icons/materia/Naturia_Mastered_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Harlequin Shard",
+                    "icon": "icons/shard/Harlequin_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Leaf Stone",
+                    "icon": "icons/stone/Leaf_Stone.gif",
+                    "qtde": 5
+                },
+                {
+                    "name": "Cocoon Stone",
+                    "icon": "icons/stone/Cocoon_Stone.gif",
+                    "qtde": 5
+                },
+                {
+                    "name": "Naturia Chemical",
+                    "icon": "icons/chemical/Naturia_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+
+
+
+
+        {
+            "key": 13,
+            "name": "Raibolt Materia",
+            "icon": "icons/materia/Raibolt_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Thunder Stone",
+                    "icon": "icons/stone/Thunder_Stone.gif",
+                    "qtde": 4
+                },
+                {
+                    "name": "Raibolt Chemical",
+                    "icon": "icons/chemical/Raibolt_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 14,
+            "name": "Raibolt Enhanced Materia",
+            "icon": "icons/materia/Raibolt_Enhanced_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Thunder Stone",
+                    "icon": "icons/stone/Thunder_Stone.gif",
+                    "qtde": 15
+                },
+                {
+                    "name": "Raibolt Chemical",
+                    "icon": "icons/chemical/Raibolt_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 15,
+            "name": "Raibolt Superior Materia",
+            "icon": "icons/materia/Raibolt_Superior_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Sunflower Shard",
+                    "icon": "icons/shard/Sunflower_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Raibolt Chemical",
+                    "icon": "icons/chemical/Raibolt_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 16,
+            "name": "Raibolt Mastered Materia",
+            "icon": "icons/materia/Raibolt_Mastered_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Sunflower Shard",
+                    "icon": "icons/shard/Sunflower_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Thunder Stone",
+                    "icon": "icons/stone/Thunder_Stone.gif",
+                    "qtde": 10
+                },
+                {
+                    "name": "Raibolt Chemical",
+                    "icon": "icons/chemical/Raibolt_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+
+
+
+
+        {
+            "key": 17,
+            "name": "Psycraft Materia",
+            "icon": "icons/materia/Psycraft_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Enigma Stone",
+                    "icon": "icons/stone/Enigma_Stone.gif",
+                    "qtde": 4
+                },
+                {
+                    "name": "Psycraft Chemical",
+                    "icon": "icons/chemical/Psycraft_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 18,
+            "name": "Psycraft Enhanced Materia",
+            "icon": "icons/materia/Psycraft_Enhanced_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Enigma Stone",
+                    "icon": "icons/stone/Enigma_Stone.gif",
+                    "qtde": 15
+                },
+                {
+                    "name": "Psycraft Chemical",
+                    "icon": "icons/chemical/Psycraft_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 19,
+            "name": "Psycraft Superior Materia",
+            "icon": "icons/materia/Psycraft_Superior_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Cerise Shard",
+                    "icon": "icons/shard/Cerise_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Psycraft Chemical",
+                    "icon": "icons/chemical/Psycraft_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 20,
+            "name": "Psycraft Mastered Materia",
+            "icon": "icons/materia/Psycraft_Mastered_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Cerise Shard",
+                    "icon": "icons/shard/Cerise_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Enigma Stone",
+                    "icon": "icons/stone/Enigma_Stone.gif",
+                    "qtde": 10
+                },
+                {
+                    "name": "Psycraft Chemical",
+                    "icon": "icons/chemical/Psycraft_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+
+
+
+
+        {
+            "key": 21,
+            "name": "Malefic Materia",
+            "icon": "icons/materia/Malefic_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Venom Stone",
+                    "icon": "icons/stone/Venom_Stone.gif",
+                    "qtde": 2
+                },
+                {
+                    "name": "Darkness Stone",
+                    "icon": "icons/stone/Darkness_Stone.png",
+                    "qtde": 2
+                },
+                {
+                    "name": "Malefic Chemical",
+                    "icon": "icons/chemical/Malefic_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 22,
+            "name": "Malefic Enhanced Materia",
+            "icon": "icons/materia/Malefic_Enhanced_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Venom Stone",
+                    "icon": "icons/stone/Venom_Stone.gif",
+                    "qtde": 7
+                },
+                {
+                    "name": "Darkness Stone",
+                    "icon": "icons/stone/Darkness_Stone.png",
+                    "qtde": 8
+                },
+                {
+                    "name": "Malefic Chemical",
+                    "icon": "icons/chemical/Malefic_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 23,
+            "name": "Malefic Superior Materia",
+            "icon": "icons/materia/Malefic_Superior_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Damson Shard",
+                    "icon": "icons/shard/Damson_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Malefic Chemical",
+                    "icon": "icons/chemical/Malefic_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 24,
+            "name": "Malefic Mastered Materia",
+            "icon": "icons/materia/Malefic_Mastered_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Damson Shard",
+                    "icon": "icons/shard/Damson_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Venom Stone",
+                    "icon": "icons/stone/Venom_Stone.gif",
+                    "qtde": 5
+                },
+                {
+                    "name": "Darkness Stone",
+                    "icon": "icons/stone/Darkness_Stone.png",
+                    "qtde": 5
+                },
+                {
+                    "name": "Malefic Chemical",
+                    "icon": "icons/chemical/Malefic_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+
+
+
+
+        {
+            "key": 25,
+            "name": "Gardestrike Materia",
+            "icon": "icons/materia/Gardestrike_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Heart Stone",
+                    "icon": "icons/stone/Venom_Stone.gif",
+                    "qtde": 2
+                },
+                {
+                    "name": "Punch Stone",
+                    "icon": "icons/stone/Punch_Stone.png",
+                    "qtde": 2
+                },
+                {
+                    "name": "Gardestrike Chemical",
+                    "icon": "icons/chemical/Gardestrike_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 26,
+            "name": "Gardestrike Enhanced Materia",
+            "icon": "icons/materia/Gardestrike_Enhanced_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Heart Stone",
+                    "icon": "icons/stone/Heart_Stone.gif",
+                    "qtde": 7
+                },
+                {
+                    "name": "Punch Stone",
+                    "icon": "icons/stone/Punch_Stone.png",
+                    "qtde": 8
+                },
+                {
+                    "name": "Gardestrike Chemical",
+                    "icon": "icons/chemical/Gardestrike_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 27,
+            "name": "Gardestrike Superior Materia",
+            "icon": "icons/materia/Gardestrike_Superior_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Kermes Shard",
+                    "icon": "icons/shard/Kermes_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Gardestrike Chemical",
+                    "icon": "icons/chemical/Gardestrike_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 28,
+            "name": "Gardestrike Mastered Materia",
+            "icon": "icons/materia/Gardestrike_Mastered_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Kermes Shard",
+                    "icon": "icons/shard/Kermes_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Heart Stone",
+                    "icon": "icons/stone/Heart_Stone.gif",
+                    "qtde": 5
+                },
+                {
+                    "name": "Punch Stone",
+                    "icon": "icons/stone/Punch_Stone.png",
+                    "qtde": 5
+                },
+                {
+                    "name": "Gardestrike Chemical",
+                    "icon": "icons/chemical/Gardestrike_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+
+
+
+
+        {
+            "key": 29,
+            "name": "Orebound Materia",
+            "icon": "icons/materia/Orebound_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Rock Stone",
+                    "icon": "icons/stone/Rock_Stone.gif",
+                    "qtde": 2
+                },
+                {
+                    "name": "Earth Stone",
+                    "icon": "icons/stone/Earth_Stone.gif",
+                    "qtde": 2
+                },
+                {
+                    "name": "Orebound Chemical",
+                    "icon": "icons/chemical/Orebound_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 30,
+            "name": "Orebound Enhanced Materia",
+            "icon": "icons/materia/Orebound_Enhanced_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Rock Stone",
+                    "icon": "icons/stone/Rock_Stone.gif",
+                    "qtde": 7
+                },
+                {
+                    "name": "Earth Stone",
+                    "icon": "icons/stone/Earth_Stone.gif",
+                    "qtde": 8
+                },
+                {
+                    "name": "Orebound Chemical",
+                    "icon": "icons/chemical/Orebound_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 31,
+            "name": "Orebound Superior Materia",
+            "icon": "icons/materia/Orebound_Superior_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Indigo Shard",
+                    "icon": "icons/shard/Indigo_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Orebound Chemical",
+                    "icon": "icons/chemical/Orebound_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 32,
+            "name": "Orebound Mastered Materia",
+            "icon": "icons/materia/Orebound_Mastered_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Indigo Shard",
+                    "icon": "icons/shard/Indigo_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Rock Stone",
+                    "icon": "icons/stone/Rock_Stone.gif",
+                    "qtde": 5
+                },
+                {
+                    "name": "Earth Stone",
+                    "icon": "icons/stone/Earth_Stone.gif",
+                    "qtde": 5
+                },
+                {
+                    "name": "Orebound Chemical",
+                    "icon": "icons/chemical/Orebound_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+
+
+
+
+        {
+            "key": 33,
+            "name": "Wingeon Materia",
+            "icon": "icons/materia/Wingeon_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Feather Stone",
+                    "icon": "icons/stone/Feather_Stone.png",
+                    "qtde": 4
+                },
+                {
+                    "name": "Wingeon Chemical",
+                    "icon": "icons/chemical/Wingeon_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 34,
+            "name": "Wingeon Enhanced Materia",
+            "icon": "icons/materia/Wingeon_Enhanced_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Feather Stone",
+                    "icon": "icons/stone/Feather_Stone.png",
+                    "qtde": 5
+                },
+                {
+                    "name": "Crystal Stone",
+                    "icon": "icons/stone/Crystal_Stone.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Wingeon Chemical",
+                    "icon": "icons/chemical/Wingeon_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 35,
+            "name": "Wingeon Superior Materia",
+            "icon": "icons/materia/Wingeon_Superior_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Shell Shard",
+                    "icon": "icons/shard/Shell_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Wingeon Chemical",
+                    "icon": "icons/chemical/Wingeon_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 36,
+            "name": "Wingeon Mastered Materia",
+            "icon": "icons/materia/Wingeon_Mastered_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Shell Shard",
+                    "icon": "icons/shard/Shell_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Crystal Stone",
+                    "icon": "icons/stone/Crystal_Stone.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Wingeon Chemical",
+                    "icon": "icons/chemical/Wingeon_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+
+
+
+
+        {
+            "key": 37,
+            "name": "Ironhard Materia",
+            "icon": "icons/materia/Ironhard_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 38,
+            "name": "Ironhard Enhanced Materia",
+            "icon": "icons/materia/Ironhard_Enhanced_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 2
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 39,
+            "name": "Ironhard Superior Materia",
+            "icon": "icons/materia/Ironhard_Superior_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 40,
+            "name": "Ironhard Mastered Materia",
+            "icon": "icons/materia/Ironhard_Mastered_Materia.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        }
+
+    ]
+}

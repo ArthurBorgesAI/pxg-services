@@ -1,0 +1,326 @@
+{
+    "id": "CHEMICAL",
+    "crafts": [
+        {
+            "key": 1,
+            "name": "Volcanic Chemical",
+            "icon": "icons/chemical/Volcanic_Chemical.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Pot of Lava",
+                    "icon": "icons/general/PotOfLava.png",
+                    "qtde": 35
+                },
+                {
+                    "name": "Fire Feather",
+                    "icon": "icons/general/FireFeather.png",
+                    "qtde": 25
+                },
+                {
+                    "name": "Fire Tail",
+                    "icon": "icons/general/FireTail.png",
+                    "qtde": 5
+                },
+                {
+                    "name": "Compressed Fire",
+                    "icon": "icons/general/CompressedFire.gif",
+                    "qtde": 5
+                },
+                {
+                    "name": "Magma Foot",
+                    "icon": "icons/general/MagmaFoot.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 2,
+            "name": "Seavell Chemical",
+            "icon": "icons/chemical/Seavell_Chemical.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Water Pendant",
+                    "icon": "icons/general/WaterPendant.png",
+                    "qtde": 30
+                },
+                {
+                    "name": "Water Plant",
+                    "icon": "icons/general/WaterPlant.png",
+                    "qtde": 15
+                },
+                {
+                    "name": "Ice Orb",
+                    "icon": "icons/general/IceOrb.png",
+                    "qtde": 30
+                },
+                {
+                    "name": " Ice Blocks",
+                    "icon": "icons/general/IceBlocks.png",
+                    "qtde": 20
+                },
+                {
+                    "name": "Ice Bra",
+                    "icon": "icons/general/IceBra.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 3,
+            "name": "Naturia Chemical",
+            "icon": "icons/chemical/Naturia_Chemical.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Leaves",
+                    "icon": "icons/general/Leaves.png",
+                    "qtde": 30
+                },
+                {
+                    "name": "Palm Leaves",
+                    "icon": "icons/general/PalmLeaves.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Pot of Moss Bug",
+                    "icon": "icons/general/PotOfMossBug.png",
+                    "qtde": 20
+                },
+                {
+                    "name": "Insect Claw",
+                    "icon": "icons/general/InsectClaw.png",
+                    "qtde": 10
+                },
+                {
+                    "name": "Greens",
+                    "icon": "icons/general/Greens.png",
+                    "qtde": 15
+                },
+                {
+                    "name": "Scythe",
+                    "icon": "icons/general/Scythe.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 4,
+            "name": "Raibolt Chemical",
+            "icon": "icons/chemical/Raibolt_Chemical.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Electric Box",
+                    "icon": "icons/general/ElectricBox.png",
+                    "qtde": 10
+                },
+                {
+                    "name": "Shock Topknot",
+                    "icon": "icons/general/ShockTopknot.png",
+                    "qtde": 20
+                },
+                {
+                    "name": "Electric Rat Tail",
+                    "icon": "icons/general/ElectricRatTail.png",
+                    "qtde": 8
+                },
+                {
+                    "name": "Sheep Wool",
+                    "icon": "icons/general/SheepWool.png",
+                    "qtde": 2
+                },
+                {
+                    "name": "Electric Tail",
+                    "icon": "icons/general/ElectricTail.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+
+
+
+        {
+            "key": 5,
+            "name": "Psycraft Chemical",
+            "icon": "icons/chemical/Psycraft_Chemical.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Future Orb",
+                    "icon": "icons/general/FutureOrb.png",
+                    "qtde": 30
+                },
+                {
+                    "name": "Linearly Guided Hypnosis",
+                    "icon": "icons/general/LinearlyGuidedHypnose.png",
+                    "qtde": 2
+                },
+                {
+                    "name": "Mediling",
+                    "icon": "icons/general/Mediling.png",
+                    "qtde": 30
+                },
+                {
+                    "name": "Strange Wing",
+                    "icon": "icons/general/StrangeWing.png",
+                    "qtde": 8
+                }
+            ]
+        },
+
+        {
+            "key": 6,
+            "name": "Malefic Chemical",
+            "icon": "icons/chemical/Malefic_Chemical.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Traces of Ghost",
+                    "icon": "icons/general/TracesOfGhost.png",
+                    "qtde": 10
+                },
+                {
+                    "name": "Big Crystal",
+                    "icon": "icons/general/BigCrystal.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Poisonous Tail",
+                    "icon": "icons/general/PoisonousTail.png",
+                    "qtde": 25
+                }
+            ]
+        },
+
+        {
+            "key": 7,
+            "name": "Gardestrike Chemical",
+            "icon": "icons/chemical/Gardestrike_Chemical.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Martial Arts Scroll",
+                    "icon": "icons/general/MartialArtsScroll.png",
+                    "qtde": 6
+                },
+                {
+                    "name": "Cow Tail",
+                    "icon": "icons/general/CowTail.png",
+                    "qtde": 10
+                },
+                {
+                    "name": "Eruption Ears",
+                    "icon": "icons/general/EruptionEars.png",
+                    "qtde": 14
+                },
+                {
+                    "name": "Belt of Champion",
+                    "icon": "icons/general/BeltOfChampion.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Cute Ball",
+                    "icon": "icons/general/CuteBall.png",
+                    "qtde": 14
+                }
+            ]
+        },
+
+        {
+            "key": 8,
+            "name": "Orebound Chemical",
+            "icon": "icons/chemical/Orebound_Chemical.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Stone Orb",
+                    "icon": "icons/general/StoneOrb.png",
+                    "qtde": 25
+                },
+                {
+                    "name": "Horn Drill",
+                    "icon": "icons/general/HornDrill.png",
+                    "qtde": 10
+                },
+                {
+                    "name": "Strange Rock",
+                    "icon": "icons/general/StrangeRock.png",
+                    "qtde": 8
+                },
+                {
+                    "name": "Bone",
+                    "icon": "icons/general/Bone.png",
+                    "qtde": 22
+                }
+            ]
+        },
+
+
+
+
+        {
+            "key": 9,
+            "name": "Wingeon Chemical",
+            "icon": "icons/chemical/Wingeon_Chemical.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Feather",
+                    "icon": "icons/general/Feather.png",
+                    "qtde": 40
+                },
+                {
+                    "name": "Colored Feather",
+                    "icon": "icons/general/ColoredFeather.png",
+                    "qtde": 13
+                },
+                {
+                    "name": "Owl Feather",
+                    "icon": "icons/general/OwlFeather.png",
+                    "qtde": 15
+                },
+                {
+                    "name": "Bird Beak",
+                    "icon": "icons/general/BirdBeak.png",
+                    "qtde": 25
+                },
+                {
+                    "name": "Dragon Tooth",
+                    "icon": "icons/general/DragonTooth.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 10,
+            "name": "Ironhard Chemical",
+            "icon": "icons/chemical/Ironhard_Chemical.png",
+            "qtde": 1,
+            "ingredients": [
+                {
+                    "name": "Metal Hull",
+                    "icon": "icons/general/MetalHull.png",
+                    "qtde": 16
+                },
+                {
+                    "name": "Compressed Steel",
+                    "icon": "icons/general/CompressedSteel.png",
+                    "qtde": 25
+                },
+                {
+                    "name": "Steel Wing",
+                    "icon": "icons/general/SteelWing.png",
+                    "qtde": 6
+                }
+            ]
+        }
+
+    ]
+}

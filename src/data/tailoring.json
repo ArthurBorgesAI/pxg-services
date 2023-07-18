@@ -1,0 +1,2199 @@
+{
+    "id": "TAILORING",
+    "crafts": [
+        {
+            "key": 1,
+            "name": "Davy Jones Costume",
+            "icon": "icons/addons/Abomasnow_davy_jones_costume.png",
+            "qtde": 1,
+            "dz": "Beartic",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 60",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Blue Fashion Silk",
+                    "icon": "icons/general/Blue_fashion_silk.png",
+                    "qtde": 30
+                }
+            ]
+        },
+
+        {
+            "key": 2,
+            "name": "Majin Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": "Beartic",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 61",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Green Fashion Silk",
+                    "icon": "icons/general/Green_fashion_silk.png",
+                    "qtde": 6
+                }
+            ]
+        },
+
+        {
+            "key": 3,
+            "name": "Cosmic Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": "Bisharp",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 10",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Green Fashion Silk",
+                    "icon": "icons/general/Green_fashion_silk.png",
+                    "qtde": 6
+                }
+            ]
+        },
+
+        {
+            "key": 4,
+            "name": "Dark Iron Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": "Mightyena",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 9",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Green Fashion Silk",
+                    "icon": "icons/general/Green_fashion_silk.png",
+                    "qtde": 6
+                }
+            ]
+        },
+
+
+
+
+        {
+            "key": 5,
+            "name": "Stellar Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": "Drapion",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 11",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Blue Fashion Silk",
+                    "icon": "icons/general/Blue_fashion_silk.png",
+                    "qtde": 30
+                }
+            ]
+        },
+
+        {
+            "key": 6,
+            "name": "Bug Catcher Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": "Cradily",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 16",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Blue Fashion Silk",
+                    "icon": "icons/general/Blue_fashion_silk.png",
+                    "qtde": 30
+                }
+            ]
+        },
+
+        {
+            "key": 7,
+            "name": "Combat Machine Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": "Galvantula",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 15",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Blue Fashion Silk",
+                    "icon": "icons/general/Green_fashion_silk.png",
+                    "qtde": 6
+                }
+            ]
+        },
+
+        {
+            "key": 8,
+            "name": "Cyborg Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": "Crustle",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 17",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Blue Fashion Silk",
+                    "icon": "icons/general/Blue_fashion_silk.png",
+                    "qtde": 30
+                }
+            ]
+        },
+
+
+
+
+        {
+            "key": 9,
+            "name": "Hollow Mask Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": "Heatmor",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 57",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Blue Fashion Silk",
+                    "icon": "icons/general/Blue_fashion_silk.png",
+                    "qtde": 30
+                }
+            ]
+        },
+
+        {
+            "key": 10,
+            "name": "Ken Master Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": "Darmanitan",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 76",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Blue Fashion Silk",
+                    "icon": "icons/general/Red_fashion_silk.png",
+                    "qtde": 6
+                }
+            ]
+        },
+
+        {
+            "key": 11,
+            "name": "Scorpion Armor Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": "Heatmor",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 56",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Blue Fashion Silk",
+                    "icon": "icons/general/Red_fashion_silk.png",
+                    "qtde": 6
+                }
+            ]
+        },
+
+        {
+            "key": 12,
+            "name": "War Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": "Breloom",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 55",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Blue Fashion Silk",
+                    "icon": "icons/general/Red_fashion_silk.png",
+                    "qtde": 6
+                }
+            ]
+        },
+
+
+
+
+        {
+            "key": 13,
+            "name": "Chef Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": "Mega Slowbro / Excadrill",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 31",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Blue Fashion Silk",
+                    "icon": "icons/general/Blue_fashion_silk.png",
+                    "qtde": 30
+                }
+            ]
+        },
+
+        {
+            "key": 14,
+            "name": "Malfunctioning Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": "Probopass",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 29",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Blue Fashion Silk",
+                    "icon": "icons/general/Red_fashion_silk.png",
+                    "qtde": 6
+                }
+            ]
+        },
+
+        {
+            "key": 15,
+            "name": "Queen Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": "Bisharp",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 32",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Blue Fashion Silk",
+                    "icon": "icons/general/Blue_fashion_silk.png",
+                    "qtde": 30
+                }
+            ]
+        },
+
+        {
+            "key": 16,
+            "name": "Tron Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": "Excadrill",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 30",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Blue Fashion Silk",
+                    "icon": "icons/general/Red_fashion_silk.png",
+                    "qtde": 6
+                }
+            ]
+        },
+
+
+
+
+        {
+            "key": 17,
+            "name": "Dark Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": "Darmanitan",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 33",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Blue Fashion Silk",
+                    "icon": "icons/general/Green_fashion_silk.png",
+                    "qtde": 6
+                }
+            ]
+        },
+
+        {
+            "key": 18,
+            "name": "Flash Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": "Chandelure",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 34",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Blue Fashion Silk",
+                    "icon": "icons/general/Green_fashion_silk.png",
+                    "qtde": 6
+                }
+            ]
+        },
+
+        {
+            "key": 19,
+            "name": "Machine Gun Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": "Excadrill",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 26",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Blue Fashion Silk",
+                    "icon": "icons/general/Blue_fashion_silk.png",
+                    "qtde": 30
+                }
+            ]
+        },
+
+        {
+            "key": 20,
+            "name": "Tankerupt Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": "Excadrill",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 28",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Blue Fashion Silk",
+                    "icon": "icons/general/Green_fashion_silk.png",
+                    "qtde": 30
+                }
+            ]
+        },
+
+
+
+
+        {
+            "key": 21,
+            "name": "Alpha Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": "Excadrill",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 25",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Blue Fashion Silk",
+                    "icon": "icons/general/Blue_fashion_silk.png",
+                    "qtde": 30
+                }
+            ]
+        },
+
+        {
+            "key": 22,
+            "name": "King Helmet Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": "Hippowdon",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 77",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Blue Fashion Silk",
+                    "icon": "icons/general/Red_fashion_silk.png",
+                    "qtde": 6
+                }
+            ]
+        },
+
+        {
+            "key": 23,
+            "name": "Candy Donut Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": "Excadrill",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 23",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Blue Fashion Silk",
+                    "icon": "icons/general/Red_fashion_silk.png",
+                    "qtde": 6
+                }
+            ]
+        },
+
+        {
+            "key": 24,
+            "name": "Shakoki Dogu Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": "Hippowdon",
+            "ingredients": [
+                {
+                    "name": "Scroll of Knowledge 24",
+                    "icon": "icons/general/Scrolls.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Blue Fashion Silk",
+                    "icon": "icons/general/Green_fashion_silk.png",
+                    "qtde": 6
+                }
+            ]
+        },
+
+
+
+
+        {
+            "key": 25,
+            "name": "Monster Kraken Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Heart Stone",
+                    "icon": "icons/stone/Venom_Stone.gif",
+                    "qtde": 2
+                },
+                {
+                    "name": "Punch Stone",
+                    "icon": "icons/stone/Punch_Stone.png",
+                    "qtde": 2
+                },
+                {
+                    "name": "Gardestrike Chemical",
+                    "icon": "icons/chemical/Gardestrike_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 26,
+            "name": "Monster Cell Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Heart Stone",
+                    "icon": "icons/stone/Heart_Stone.gif",
+                    "qtde": 7
+                },
+                {
+                    "name": "Punch Stone",
+                    "icon": "icons/stone/Punch_Stone.png",
+                    "qtde": 8
+                },
+                {
+                    "name": "Gardestrike Chemical",
+                    "icon": "icons/chemical/Gardestrike_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 27,
+            "name": "Pirate Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Kermes Shard",
+                    "icon": "icons/shard/Kermes_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Gardestrike Chemical",
+                    "icon": "icons/chemical/Gardestrike_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 28,
+            "name": "Chef Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Kermes Shard",
+                    "icon": "icons/shard/Kermes_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Heart Stone",
+                    "icon": "icons/stone/Heart_Stone.gif",
+                    "qtde": 5
+                },
+                {
+                    "name": "Punch Stone",
+                    "icon": "icons/stone/Punch_Stone.png",
+                    "qtde": 5
+                },
+                {
+                    "name": "Gardestrike Chemical",
+                    "icon": "icons/chemical/Gardestrike_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+
+
+
+
+        {
+            "key": 29,
+            "name": "Gentleman Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Rock Stone",
+                    "icon": "icons/stone/Rock_Stone.gif",
+                    "qtde": 2
+                },
+                {
+                    "name": "Earth Stone",
+                    "icon": "icons/stone/Earth_Stone.gif",
+                    "qtde": 2
+                },
+                {
+                    "name": "Orebound Chemical",
+                    "icon": "icons/chemical/Orebound_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 30,
+            "name": "Stitch Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Rock Stone",
+                    "icon": "icons/stone/Rock_Stone.gif",
+                    "qtde": 7
+                },
+                {
+                    "name": "Earth Stone",
+                    "icon": "icons/stone/Earth_Stone.gif",
+                    "qtde": 8
+                },
+                {
+                    "name": "Orebound Chemical",
+                    "icon": "icons/chemical/Orebound_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 31,
+            "name": "Dark Mask Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Indigo Shard",
+                    "icon": "icons/shard/Indigo_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Orebound Chemical",
+                    "icon": "icons/chemical/Orebound_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 32,
+            "name": "Batgliscor Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Indigo Shard",
+                    "icon": "icons/shard/Indigo_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Rock Stone",
+                    "icon": "icons/stone/Rock_Stone.gif",
+                    "qtde": 5
+                },
+                {
+                    "name": "Earth Stone",
+                    "icon": "icons/stone/Earth_Stone.gif",
+                    "qtde": 5
+                },
+                {
+                    "name": "Orebound Chemical",
+                    "icon": "icons/chemical/Orebound_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+
+
+
+
+        {
+            "key": 33,
+            "name": "Trickster Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Feather Stone",
+                    "icon": "icons/stone/Feather_Stone.png",
+                    "qtde": 4
+                },
+                {
+                    "name": "Wingeon Chemical",
+                    "icon": "icons/chemical/Wingeon_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 34,
+            "name": "Empress Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Feather Stone",
+                    "icon": "icons/stone/Feather_Stone.png",
+                    "qtde": 5
+                },
+                {
+                    "name": "Crystal Stone",
+                    "icon": "icons/stone/Crystal_Stone.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Wingeon Chemical",
+                    "icon": "icons/chemical/Wingeon_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 35,
+            "name": "Golden Dragon Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Shell Shard",
+                    "icon": "icons/shard/Shell_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Wingeon Chemical",
+                    "icon": "icons/chemical/Wingeon_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 36,
+            "name": "Pirate Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Shell Shard",
+                    "icon": "icons/shard/Shell_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Crystal Stone",
+                    "icon": "icons/stone/Crystal_Stone.gif",
+                    "qtde": 1
+                },
+                {
+                    "name": "Wingeon Chemical",
+                    "icon": "icons/chemical/Wingeon_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+
+
+
+
+        {
+            "key": 37,
+            "name": "Mermaid Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 38,
+            "name": "Full Armor Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 2
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 39,
+            "name": "Magician Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 1
+                }
+            ]
+        },
+
+        {
+            "key": 40,
+            "name": "Tron Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+
+        {
+            "key": 41,
+            "name": "Minion Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 42,
+            "name": "Flame Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 43,
+            "name": "Mutant Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 44,
+            "name": "Red Tie Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 45,
+            "name": "Blue Tie Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 46,
+            "name": "Pirate Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 47,
+            "name": "Oriental Flames Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 48,
+            "name": "Red Flames Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 49,
+            "name": "Alvin Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 50,
+            "name": "Green Lantern Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 51,
+            "name": "Nibbler Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 52,
+            "name": "Chicken Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 53,
+            "name": "Woodpecker Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 54,
+            "name": "Pingu Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 55,
+            "name": "Illusionist Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 56,
+            "name": "Robot Unicorn Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 57,
+            "name": "Zodiac Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 58,
+            "name": "Toxic Armor Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 59,
+            "name": "Ekans Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 60,
+            "name": "Dragonborn Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 61,
+            "name": "Japanese Monk Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 62,
+            "name": "Samurai  Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 63,
+            "name": "Stone Age Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 64,
+            "name": "Yugo Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 65,
+            "name": "Junker Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 66,
+            "name": "Gas Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 67,
+            "name": "Myotismon Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 68,
+            "name": "Desert Queen Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 69,
+            "name": "Reaper Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 70,
+            "name": "Black Metal Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 71,
+            "name": "Celestial Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 72,
+            "name": "Trainer Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 73,
+            "name": "Ninja Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 74,
+            "name": "Cheerleader Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 75,
+            "name": "Hero Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 76,
+            "name": "DJ Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 77,
+            "name": "Infernal Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 78,
+            "name": "Golden Armor Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 79,
+            "name": "Ranger Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 80,
+            "name": "Pilot Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        
+        {
+            "key": 81,
+            "name": "Dinosaur Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        
+        {
+            "key": 82,
+            "name": "Valkyrie Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        
+        {
+            "key": 83,
+            "name": "Hawk Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        
+        {
+            "key": 84,
+            "name": "Luxury Cap Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        
+        {
+            "key": 85,
+            "name": "Rider Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        
+        {
+            "key": 86,
+            "name": "Bandit Mask Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        
+        {
+            "key": 87,
+            "name": "Chef Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        
+        {
+            "key": 88,
+            "name": "Fall Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        
+        {
+            "key": 89,
+            "name": "Magician Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        
+        {
+            "key": 90,
+            "name": "Marine Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        
+        {
+            "key": 91,
+            "name": "Snorlax Pajama Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        },
+        
+        {
+            "key": 92,
+            "name": "Police Costume",
+            "icon": "icons/addons/Abomasnow_Majin_Costume.png",
+            "qtde": 1,
+            "dz": 1,
+            "ingredients": [
+                {
+                    "name": "Slate Shard",
+                    "icon": "icons/shard/Slate_Shard.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Metal Stone",
+                    "icon": "icons/stone/Metal_Stone.png",
+                    "qtde": 1
+                },
+                {
+                    "name": "Ironhard Chemical",
+                    "icon": "icons/chemical/Ironhard_Chemical.png",
+                    "qtde": 3
+                }
+            ]
+        }
+        
+
+    ]
+}
