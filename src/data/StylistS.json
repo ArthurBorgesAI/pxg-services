@@ -1,0 +1,2540 @@
+{
+  "id": "STYLISTS",
+  "crafts": [
+    {
+      "key": 359,
+      "name": "NightmareXPTotem",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "60" },
+        { "key": 1, "name": "SmallBirdBeak", "qtde": "8" },
+        { "key": 2, "name": "CorruptedPotOfLava", "qtde": "5" },
+        { "key": 3, "name": "CorruptedLeaves", "qtde": "5" },
+        { "key": 4, "name": "CorruptedMagnet", "qtde": "5" },
+        { "key": 5, "name": "CorruptedDragonTooth", "qtde": "5" }
+      ],
+      "icon": "/icons/ranks/Nightmare_XP_Totem.png",
+      "qtde": "1"
+    },
+    {
+      "key": 360,
+      "name": "DarkFogBallCapsule",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "600" },
+        { "key": 1, "name": "CorruptedVines", "qtde": "21" },
+        { "key": 2, "name": "CorruptedMissTraces", "qtde": "31" },
+        { "key": 3, "name": "SolidHead", "qtde": "4" },
+        { "key": 4, "name": "CorruptedCloud", "qtde": "23" },
+        { "key": 5, "name": "BrutalFin", "qtde": "4" }
+      ],
+      "icon": "/icons/ranks/Dark_Fog_Ball_Capsule.gif",
+      "qtde": "1"
+    },
+    {
+      "key": 361,
+      "name": "ElectricSparkBallCapsule",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "600" },
+        { "key": 1, "name": "CorruptedMagnet", "qtde": "66" },
+        { "key": 2, "name": "AlolanElectricRatTail", "qtde": "3" },
+        { "key": 3, "name": "GearNose", "qtde": "4" },
+        { "key": 4, "name": "BagwormStone", "qtde": "3" },
+        { "key": 5, "name": "RoyalMane", "qtde": "31" }
+      ],
+      "icon": "/icons/ranks/Electric_Spark_Ball_Capsule.gif",
+      "qtde": "1"
+    },
+    {
+      "key": 362,
+      "name": "VirusBallCapsule",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "600" },
+        { "key": 1, "name": "VirtualTail", "qtde": "35" },
+        { "key": 2, "name": "ElectricFishTail", "qtde": "3" },
+        { "key": 3, "name": "CorruptedPotOfMossBug", "qtde": "31" },
+        { "key": 4, "name": "CorruptedPinsirHorn", "qtde": "31" },
+        { "key": 5, "name": "BagwormStone", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Virus_Ball_Capsule.png",
+      "qtde": "1"
+    },
+    {
+      "key": 363,
+      "name": "ArcadeBallCapsule",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "600" },
+        { "key": 1, "name": "RazorClaw", "qtde": "3" },
+        { "key": 2, "name": "RoyalMane", "qtde": "31" },
+        { "key": 3, "name": "RemainsOfGears", "qtde": "2" },
+        { "key": 4, "name": "GleamTail", "qtde": "1" },
+        { "key": 5, "name": "PsychicMustache", "qtde": "17" }
+      ],
+      "icon": "/icons/ranks/Arcade_Ball_Capsule.gif",
+      "qtde": "1"
+    },
+    {
+      "key": 364,
+      "name": "PixelBallCapsule",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "600" },
+        { "key": 1, "name": "LovelyTopknot", "qtde": "17" },
+        { "key": 2, "name": "CorruptedPoisonousTail", "qtde": "17" },
+        { "key": 3, "name": "ContinentThorn", "qtde": "1" },
+        { "key": 4, "name": "CorruptedPotOfLava", "qtde": "56" },
+        { "key": 5, "name": "CorruptedIceOrb", "qtde": "31" }
+      ],
+      "icon": "/icons/ranks/Pixel_Ball_Capsule.gif",
+      "qtde": "1"
+    },
+    {
+      "key": 365,
+      "name": "EmojiBallCapsule",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "600" },
+        { "key": 1, "name": "MoleBigHair", "qtde": "2" },
+        { "key": 2, "name": "SavageFin", "qtde": "31" },
+        { "key": 3, "name": "CorruptedGemStar", "qtde": "24" },
+        { "key": 4, "name": "RoyalMane", "qtde": "31" },
+        { "key": 5, "name": "CorruptedIcePiece", "qtde": "18" }
+      ],
+      "icon": "/icons/ranks/Emoji_Ball_Capsule.gif",
+      "qtde": "1"
+    },
+    {
+      "key": 366,
+      "name": "BlueBallCapsule",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "600" },
+        { "key": 1, "name": "CatfishTail", "qtde": "3" },
+        { "key": 2, "name": "CaveNail", "qtde": "36" },
+        { "key": 3, "name": "BrutalFin", "qtde": "4" },
+        { "key": 4, "name": "WhiskersFin", "qtde": "31" },
+        { "key": 5, "name": "CorruptedCowTail", "qtde": "23" }
+      ],
+      "icon": "/icons/ranks/Blue_Ball_Capsule.gif",
+      "qtde": "1"
+    },
+    {
+      "key": 367,
+      "name": "BlackFogBallCapsule",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "600" },
+        { "key": 1, "name": "BlackWoolBall", "qtde": "40" },
+        { "key": 2, "name": "CorruptedTreeBranch", "qtde": "23" },
+        { "key": 3, "name": "CorruptedCloud", "qtde": "23" },
+        { "key": 4, "name": "DarkEar", "qtde": "31" },
+        { "key": 5, "name": "MountBigHorn", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Black_Fog_Ball_Capsule.gif",
+      "qtde": "1"
+    },
+    {
+      "key": 368,
+      "name": "GreenPixelBallCapsule",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "600" },
+        { "key": 1, "name": "ToxicGosme", "qtde": "40" },
+        { "key": 2, "name": "GreenHair", "qtde": "17" },
+        { "key": 3, "name": "ContinentThorn", "qtde": "1" },
+        { "key": 4, "name": "CorruptedVines", "qtde": "31" },
+        { "key": 5, "name": "BagwormGreenLeaves", "qtde": "31" }
+      ],
+      "icon": "/icons/ranks/Green_Pixel_Ball_Capsule.gif",
+      "qtde": "1"
+    },
+    {
+      "key": 369,
+      "name": "CyanElectricSparkBallCapsule",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "600" },
+        { "key": 1, "name": "CatfishTail", "qtde": "3" },
+        { "key": 2, "name": "AlolanElectricRatTail", "qtde": "3" },
+        { "key": 3, "name": "FrostyHand", "qtde": "31" },
+        { "key": 4, "name": "BladeHorn", "qtde": "1" },
+        { "key": 5, "name": "taaGearNose", "qtde": "4" }
+      ],
+      "icon": "/icons/ranks/Cyan_Electric_Ball_Capsule.gif",
+      "qtde": "1"
+    },
+    {
+      "key": 370,
+      "name": "WhiteElectricSparkBallCapsule",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "600" },
+        { "key": 1, "name": "WhiteHair", "qtde": "31" },
+        { "key": 2, "name": "ElefishFin", "qtde": "31" },
+        { "key": 3, "name": "GleamTail", "qtde": "1" },
+        { "key": 4, "name": "CorruptedPotOfMossBug", "qtde": "31" },
+        { "key": 5, "name": "CorruptedVenomFlute", "qtde": "23" }
+      ],
+      "icon": "/icons/ranks/White_Electric_Spark_Ball_Capsule.gif",
+      "qtde": "1"
+    },
+    {
+      "key": 371,
+      "name": "DarkBlueFogBallCapsule",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "600" },
+        { "key": 1, "name": "BigBossHat", "qtde": "1" },
+        { "key": 2, "name": "CorruptedSteelixTail", "qtde": "17" },
+        { "key": 3, "name": "CorruptedChampionBelt", "qtde": "31" },
+        { "key": 4, "name": "MachNail", "qtde": "2" },
+        { "key": 5, "name": "CorruptedLizardTail", "qtde": "23" }
+      ],
+      "icon": "/icons/ranks/Dark_Blue_Ball_Capsule.gif",
+      "qtde": "1"
+    },
+    {
+      "key": 372,
+      "name": "PinkPixelBallCapsule",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "600" },
+        { "key": 1, "name": "BagwormPinkLeaves", "qtde": "3" },
+        { "key": 2, "name": "CorruptedDollStar", "qtde": "31" },
+        { "key": 3, "name": "CorruptedDragonTooth", "qtde": "56" },
+        { "key": 4, "name": "PigEar", "qtde": "31" },
+        { "key": 5, "name": "EmperorTrident", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Pink_Pixel_Ball_Capsule.gif",
+      "qtde": "1"
+    },
+    {
+      "key": 373,
+      "name": "RedPixelBallCapsule",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "600" },
+        { "key": 1, "name": "RoyalMane", "qtde": "30" },
+        { "key": 2, "name": "CorruptedBlackHull", "qtde": "19" },
+        { "key": 3, "name": "FireMonkeyHair", "qtde": "31" },
+        { "key": 4, "name": "CorruptedScizorClaw", "qtde": "23" },
+        { "key": 5, "name": "RedSpike", "qtde": "31" }
+      ],
+      "icon": "/icons/ranks/Red_Pixel_Ball_Capssule.gif",
+      "qtde": "1"
+    },
+    {
+      "key": 374,
+      "name": "OrangePixelBallCapsule",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "600" },
+        { "key": 1, "name": "SmallBirdBeak", "qtde": "56" },
+        { "key": 2, "name": "WhiskersFin", "qtde": "31" },
+        { "key": 3, "name": "FlameTail", "qtde": "1" },
+        { "key": 4, "name": "BearArm", "qtde": "17" },
+        { "key": 5, "name": "BagwormStone", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Orange_Pixel_Ball_Capsule.gif",
+      "qtde": "1"
+    },
+    {
+      "key": 375,
+      "name": "GreenFogBallCapsule",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "600" },
+        { "key": 1, "name": "CorruptedLeaves", "qtde": "56" },
+        { "key": 2, "name": "GreenHair", "qtde": "17" },
+        { "key": 3, "name": "BladeHorn", "qtde": "1" },
+        { "key": 4, "name": "ElectricFishTail", "qtde": "3" },
+        { "key": 5, "name": "DarkEar", "qtde": "31" }
+      ],
+      "icon": "/icons/ranks/Green_Fog_Ball_Capsule.gif",
+      "qtde": "1"
+    },
+    {
+      "key": 376,
+      "name": "RedFogBallCapsule",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "600" },
+        { "key": 1, "name": "PigEar", "qtde": "40" },
+        { "key": 2, "name": "RoyalMane", "qtde": "20" },
+        { "key": 3, "name": "CorruptedMissTraces", "qtde": "20" },
+        { "key": 4, "name": "RedSpike", "qtde": "31" },
+        { "key": 5, "name": "FireMonkeyHair", "qtde": "31" }
+      ],
+      "icon": "/icons/ranks/Red_Fog_Ball_Capsule.gif",
+      "qtde": "1"
+    },
+    {
+      "key": 377,
+      "name": "PinkFogBallCapsule",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "600" },
+        { "key": 1, "name": "CurlyPigTail", "qtde": "19" },
+        { "key": 2, "name": "CorruptedPoisonousTail", "qtde": "17" },
+        { "key": 3, "name": "BagwormPinkLeaves", "qtde": "3" },
+        { "key": 4, "name": "CorruptedHornDrill", "qtde": "31" },
+        { "key": 5, "name": "CorruptedGemStar", "qtde": "23" }
+      ],
+      "icon": "/icons/ranks/Pink_Fog_Ball_Capsule.gif",
+      "qtde": "1"
+    },
+    {
+      "key": 378,
+      "name": "OrangeFogBallCapsule",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "600" },
+        { "key": 1, "name": "CorruptedFeather", "qtde": "23" },
+        { "key": 2, "name": "MoleHair", "qtde": "33" },
+        { "key": 3, "name": "CorruptedGemStar", "qtde": "23" },
+        { "key": 4, "name": "SavageFin", "qtde": "31" },
+        { "key": 5, "name": "BearArm", "qtde": "17" }
+      ],
+      "icon": "/icons/ranks/Orange_Fog_Ball_Capsule.gif",
+      "qtde": "1"
+    },
+    {
+      "key": 379,
+      "name": "RedElectricSparkCapsule",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "600" },
+        { "key": 1, "name": "IceCrystal", "qtde": "32" },
+        { "key": 2, "name": "AlolanElectricRatTail", "qtde": "3" },
+        { "key": 3, "name": "CorruptedMagnet", "qtde": "57" },
+        { "key": 4, "name": "FireMonkeyHair", "qtde": "31" },
+        { "key": 5, "name": "RoyalMane", "qtde": "31" }
+      ],
+      "icon": "/icons/ranks/Red_Electric_Spark_Ball_Capsule.gif",
+      "qtde": "1"
+    },
+    {
+      "key": 380,
+      "name": "PurpleElectricSparkCapsule",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "600" },
+        { "key": 1, "name": "CorruptedStreakTail", "qtde": "23" },
+        { "key": 2, "name": "CorruptedIcePiece", "qtde": "17" },
+        { "key": 3, "name": "CorruptedTreeBranch", "qtde": "23" },
+        { "key": 4, "name": "CorruptedDollStar", "qtde": "32" },
+        { "key": 5, "name": "CorruptedHornDrill", "qtde": "32" }
+      ],
+      "icon": "/icons/ranks/Purple_Electric_Spark_Ball_Capsule.gif",
+      "qtde": "1"
+    },
+    {
+      "key": 381,
+      "name": "PokéBallCam",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "360" },
+        { "key": 1, "name": "BlackWoolBall", "qtde": "50" },
+        { "key": 2, "name": "ToxicGosme", "qtde": "20" },
+        { "key": 3, "name": "SavageFin", "qtde": "20" },
+        { "key": 4, "name": "CompressedNightmareGem", "qtde": "4" }
+      ],
+      "icon": "/icons/ranks/Poké_Ball_Cam.png",
+      "qtde": "1"
+    },
+    {
+      "key": 382,
+      "name": "BlueBallCam",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "360" },
+        { "key": 1, "name": "GearNose", "qtde": "2" },
+        { "key": 2, "name": "SolidHead", "qtde": "2" },
+        { "key": 3, "name": "BrutalFin", "qtde": "2" },
+        { "key": 4, "name": "CaveNail", "qtde": "21" },
+        { "key": 5, "name": "WhiskersFin", "qtde": "21" },
+        { "key": 6, "name": "ElectricFishTail", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Blue_Ball_Cam.png",
+      "qtde": "1"
+    },
+    {
+      "key": 383,
+      "name": "PinkBallCam",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "360" },
+        { "key": 1, "name": "GearNose", "qtde": "2" },
+        { "key": 2, "name": "CurlyPigTail", "qtde": "14" },
+        { "key": 3, "name": "CorruptedIcePiece", "qtde": "14" },
+        { "key": 4, "name": "CorruptedMagnet", "qtde": "36" },
+        { "key": 5, "name": "RoyalMane", "qtde": "10" }
+      ],
+      "icon": "/icons/ranks/Pink_Ball_Cam.png",
+      "qtde": "1"
+    },
+    {
+      "key": 384,
+      "name": "ParkBallCam",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "360" },
+        { "key": 1, "name": "GearNose", "qtde": "2" },
+        { "key": 2, "name": "MoleHair", "qtde": "25" },
+        { "key": 3, "name": "SmallBirdBeak", "qtde": "33" },
+        { "key": 4, "name": "SavageFin", "qtde": "18" },
+        { "key": 5, "name": "CorruptedChampionBelt", "qtde": "18" }
+      ],
+      "icon": "/icons/ranks/Park_Ball_Cam.png",
+      "qtde": "1"
+    },
+    {
+      "key": 385,
+      "name": "CyanBallCam",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "360" },
+        { "key": 1, "name": "GearNose", "qtde": "2" },
+        { "key": 2, "name": "WhiskersFin", "qtde": "25" },
+        { "key": 3, "name": "SmallBirdBeak", "qtde": "17" },
+        { "key": 4, "name": "FrostyTail", "qtde": "17" },
+        { "key": 5, "name": "LandSharkHorn", "qtde": "28" }
+      ],
+      "icon": "/icons/ranks/Cyan_Ball_Cam.png",
+      "qtde": "1"
+    },
+    {
+      "key": 386,
+      "name": "FastBallCam",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "360" },
+        { "key": 1, "name": "GearNose", "qtde": "2" },
+        { "key": 2, "name": "SmallBirdBeak", "qtde": "45" },
+        { "key": 3, "name": "CorruptedChampionBelt", "qtde": "18" },
+        { "key": 4, "name": "SavageFin", "qtde": "18" },
+        { "key": 5, "name": "CorruptedDragonTooth", "qtde": "33" }
+      ],
+      "icon": "/icons/ranks/Fast_Ball_Cam.png",
+      "qtde": "1"
+    },
+    {
+      "key": 387,
+      "name": "MasterBallCam",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "360" },
+        { "key": 1, "name": "GearNose", "qtde": "2" },
+        { "key": 2, "name": "CorruptedIcePiece", "qtde": "17" },
+        { "key": 3, "name": "CorruptedLeaves", "qtde": "33" },
+        { "key": 4, "name": "MountHorn", "qtde": "1" },
+        { "key": 5, "name": "IceCrystal", "qtde": "19" }
+      ],
+      "icon": "/icons/ranks/Master_Ball_Cam.png",
+      "qtde": "1"
+    },
+    {
+      "key": 388,
+      "name": "LureBallCam",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "360" },
+        { "key": 1, "name": "GearNose", "qtde": "2" },
+        { "key": 2, "name": "CaveNail", "qtde": "30" },
+        { "key": 3, "name": "SolidHead", "qtde": "2" },
+        { "key": 4, "name": "RoyalMane", "qtde": "18" },
+        { "key": 5, "name": "CorruptedIceOrb", "qtde": "18" }
+      ],
+      "icon": "/icons/ranks/Lure_Ball_Cam.png",
+      "qtde": "1"
+    },
+    {
+      "key": 389,
+      "name": "PremierBallCam",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "360" },
+        { "key": 1, "name": "GearNose", "qtde": "2" },
+        { "key": 2, "name": "WhiteHair", "qtde": "25" },
+        { "key": 3, "name": "CorruptedPotOfMossBug", "qtde": "18" },
+        { "key": 4, "name": "ElefishFin", "qtde": "18" },
+        { "key": 5, "name": "RoyalMane", "qtde": "18" }
+      ],
+      "icon": "/icons/ranks/Premier_Ball_Cam.png",
+      "qtde": "1"
+    },
+    {
+      "key": 390,
+      "name": "GreatBallCam",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "360" },
+        { "key": 1, "name": "GearNose", "qtde": "2" },
+        { "key": 2, "name": "CorruptedIceOrb", "qtde": "25" },
+        { "key": 3, "name": "IceCrystal", "qtde": "18" },
+        { "key": 4, "name": "WhiskersFin", "qtde": "18" },
+        { "key": 5, "name": "CorruptedPotOfMossBug", "qtde": "18" }
+      ],
+      "icon": "/icons/ranks/Great_Ball_Cam.png",
+      "qtde": "1"
+    },
+    {
+      "key": 391,
+      "name": "UltraBallCam",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "360" },
+        { "key": 1, "name": "GearNose", "qtde": "2" },
+        { "key": 2, "name": "CorruptedChampionBelt", "qtde": "24" },
+        { "key": 3, "name": "BlackWoolBall", "qtde": "24" },
+        { "key": 4, "name": "SmallBirdBeak", "qtde": "18" },
+        { "key": 5, "name": "CaveNail", "qtde": "27" }
+      ],
+      "icon": "/icons/ranks/Ultra_Ball_Cam.png",
+      "qtde": "1"
+    },
+    {
+      "key": 392,
+      "name": "HeavyBallCam",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "360" },
+        { "key": 1, "name": "GearNose", "qtde": "2" },
+        { "key": 2, "name": "RazorClaw", "qtde": "2" },
+        { "key": 3, "name": "LandSharkHorn", "qtde": "25" },
+        { "key": 4, "name": "CorruptedIcePiece", "qtde": "21" }
+      ],
+      "icon": "/icons/ranks/Heavy_Ball_Cam.png",
+      "qtde": "1"
+    },
+    {
+      "key": 393,
+      "name": "TeamRocketBallCam",
+      "ingredients": [
+        { "key": 0, "name": "PurpleheartLog", "qtde": "360" },
+        { "key": 1, "name": "GearNose", "qtde": "2" },
+        { "key": 2, "name": "BlackWoolBall", "qtde": "32" },
+        { "key": 3, "name": "CorruptedLeaves", "qtde": "33" },
+        { "key": 4, "name": "CorruptedChampionBelt", "qtde": "18" },
+        { "key": 5, "name": "RoyalMane", "qtde": "18" }
+      ],
+      "icon": "/icons/ranks/Team_Rocket_Ball_Cam.png",
+      "qtde": "1"
+    },
+    {
+      "key": 394,
+      "name": "TechnologicalCapsule",
+      "ingredients": [
+        { "key": 0, "name": ".", "qtde": "3" },
+        { "key": 1, "name": "PurpleheartLog", "qtde": "000" },
+        { "key": 2, "name": "AncientCharmanderIdols", "qtde": "5" },
+        { "key": 3, "name": "AncientClaydolIdols", "qtde": "5" },
+        { "key": 4, "name": "AncientDragalgeIdols", "qtde": "5" },
+        { "key": 5, "name": "AncientDragoniteIdols", "qtde": "5" },
+        { "key": 6, "name": "AncientVespiquenIdols", "qtde": "5" },
+        { "key": 7, "name": "GiantKobans", "qtde": "5" },
+        { "key": 8, "name": "GiantHamburgers", "qtde": "5" },
+        { "key": 9, "name": "BigRockTails", "qtde": "5" },
+        { "key": 10, "name": "BigRedFeathers", "qtde": "5" },
+        { "key": 11, "name": "DogTail", "qtde": "2" },
+        { "key": 12, "name": "TwinStings", "qtde": "1" },
+        { "key": 13, "name": "MechaReactor", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Technological_Capsule.png",
+      "qtde": "1"
+    },
+    {
+      "key": 395,
+      "name": "DesignerWorkshop",
+      "ingredients": [
+        { "key": 0, "name": "NightmareStylePoint", "qtde": "900" },
+        { "key": 1, "name": "CorruptedChampionBelt", "qtde": "10" },
+        { "key": 2, "name": "WhiteHair", "qtde": "10" },
+        { "key": 3, "name": "CorruptedLeaves", "qtde": "16" },
+        { "key": 4, "name": "BlackLuckyCharm", "qtde": "9" },
+        { "key": 5, "name": "IceCrystal", "qtde": "9" }
+      ],
+      "icon": "/icons/ranks/Designer_Workshop.png",
+      "qtde": "1"
+    },
+    {
+      "key": 396,
+      "name": "SuperiorJuggernautElixir",
+      "ingredients": [
+        { "key": 0, "name": "NightmareStylePoint", "qtde": "150" },
+        { "key": 1, "name": "CorruptedLeaves", "qtde": "3" },
+        { "key": 2, "name": "CorruptedPotOfMossBug", "qtde": "3" },
+        { "key": 3, "name": "ToxicGosme", "qtde": "3" },
+        { "key": 4, "name": "WhiteHair", "qtde": "1" },
+        { "key": 5, "name": "MoleHair", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Superior_Juggernaut's_Elixir.png",
+      "qtde": "1"
+    },
+    {
+      "key": 397,
+      "name": "CriticalCatchCharm(Tier1)",
+      "ingredients": [
+        { "key": 0, "name": "NightmareStylePoint", "qtde": "1500" },
+        { "key": 1, "name": "WhiskersFin", "qtde": "25" },
+        { "key": 2, "name": "MoleHair", "qtde": "22" },
+        { "key": 3, "name": "CorruptedDollStar", "qtde": "20" },
+        { "key": 4, "name": "StarRemains", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Critical_Catch_Charm_(Tier_1).png",
+      "qtde": "1"
+    },
+    {
+      "key": 398,
+      "name": "CriticalCatchUpgrade(Tier2)",
+      "ingredients": [
+        { "key": 0, "name": ".", "qtde": "9" },
+        { "key": 1, "name": "NightmareStylePoint", "qtde": "000" },
+        { "key": 2, "name": "CorruptedPotOfLava", "qtde": "60" },
+        { "key": 3, "name": "BlackWoolBall", "qtde": "60" },
+        { "key": 4, "name": "FireMonkeyHair", "qtde": "60" },
+        { "key": 5, "name": "RoyalMane", "qtde": "80" },
+        { "key": 6, "name": "CaveNail", "qtde": "50" },
+        { "key": 7, "name": "FlameTail", "qtde": "3" },
+        { "key": 8, "name": "TurtleShell", "qtde": "3" },
+        { "key": 9, "name": "DragonRemains", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Critical_Catch_Upgrade_(Tier_2).png",
+      "qtde": "1"
+    },
+    {
+      "key": 399,
+      "name": "CriticalCatchUpgrade(Tier3)",
+      "ingredients": [
+        { "key": 0, "name": ".", "qtde": "15" },
+        { "key": 1, "name": "NightmareStylePoint", "qtde": "000" },
+        { "key": 2, "name": "CorruptedDragonTooth", "qtde": "50" },
+        { "key": 3, "name": "MoleHair", "qtde": "50" },
+        { "key": 4, "name": "PsychicMustache", "qtde": "30" },
+        { "key": 5, "name": "CorruptedDollStar", "qtde": "30" },
+        { "key": 6, "name": "CorruptedGemStar", "qtde": "30" },
+        { "key": 7, "name": "AlolanElectricRatTail", "qtde": "5" },
+        { "key": 8, "name": "RoyalTail", "qtde": "5" },
+        { "key": 9, "name": "CatfishWhiskers", "qtde": "5" },
+        { "key": 10, "name": "GleamTail", "qtde": "5" },
+        { "key": 11, "name": "GoldenNuggets", "qtde": "5" },
+        { "key": 12, "name": "BearFeet", "qtde": "4" }
+      ],
+      "icon": "/icons/ranks/Critical_Catch_Upgrade_(Tier_3).png",
+      "qtde": "1"
+    },
+    {
+      "key": 400,
+      "name": "CriticalCatchUpgrade(Tier4)",
+      "ingredients": [
+        { "key": 0, "name": ".", "qtde": "21" },
+        { "key": 1, "name": "NightmareStylePoint", "qtde": "000" },
+        { "key": 2, "name": "CorruptedPoisonousTail", "qtde": "100" },
+        { "key": 3, "name": "CorruptedMagnet", "qtde": "100" },
+        { "key": 4, "name": "CorruptedVenomFlute", "qtde": "50" },
+        { "key": 5, "name": "CorruptedMissTraces", "qtde": "50" },
+        { "key": 6, "name": "RedSpike", "qtde": "50" },
+        { "key": 7, "name": "CurlyPigTail", "qtde": "50" },
+        { "key": 8, "name": "CompressedNightmareGem", "qtde": "35" },
+        { "key": 9, "name": "BagwormPinkLeaves", "qtde": "10" },
+        { "key": 10, "name": "EelRemains", "qtde": "4" },
+        { "key": 11, "name": "TracesofVoodooDoll", "qtde": "4" },
+        { "key": 12, "name": "VirtualHead", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Critical_Catch_Upgrade_(Tier_4).png",
+      "qtde": "1"
+    },
+    {
+      "key": 401,
+      "name": "CriticalCatchUpgrade(Tier5)",
+      "ingredients": [
+        { "key": 0, "name": ".", "qtde": "30" },
+        { "key": 1, "name": "NightmareStylePoint", "qtde": "000" },
+        { "key": 2, "name": "IceCrystal", "qtde": "100" },
+        { "key": 3, "name": "BigIceBall", "qtde": "80" },
+        { "key": 4, "name": "CorruptedIceOrb", "qtde": "80" },
+        { "key": 5, "name": "CorruptedIcePiece", "qtde": "80" },
+        { "key": 6, "name": "LandSharkHorn", "qtde": "80" },
+        { "key": 7, "name": "WhiskersFin", "qtde": "80" },
+        { "key": 8, "name": "BrutalFin", "qtde": "25" },
+        { "key": 9, "name": "GearNose", "qtde": "25" },
+        { "key": 10, "name": "TwinStings", "qtde": "4" },
+        { "key": 11, "name": "DogCollar", "qtde": "2" },
+        { "key": 12, "name": "MagnetRemains", "qtde": "5" },
+        { "key": 13, "name": "CatfishTail", "qtde": "3" },
+        { "key": 14, "name": "BladeHorn", "qtde": "3" },
+        { "key": 15, "name": "GiantTusk", "qtde": "3" },
+        { "key": 16, "name": "MechaReactor", "qtde": "1" },
+        { "key": 17, "name": "GoldenNuggets", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Critical_Catch_Upgrade_(Tier_5).png",
+      "qtde": "1"
+    },
+    {
+      "key": 402,
+      "name": "CriticalCatchUpgrade(Tier6)",
+      "ingredients": [
+        { "key": 0, "name": ".", "qtde": "36" },
+        { "key": 1, "name": "NightmareStylePoint", "qtde": "000" },
+        { "key": 2, "name": "ToxicGosme", "qtde": "150" },
+        { "key": 3, "name": "CorruptedLeaves", "qtde": "150" },
+        { "key": 4, "name": "BagwormGreenLeaves", "qtde": "120" },
+        { "key": 5, "name": "CorruptedPinsirHorn", "qtde": "120" },
+        { "key": 6, "name": "GreenHair", "qtde": "120" },
+        { "key": 7, "name": "CorruptedPotOfMossBug", "qtde": "120" },
+        { "key": 8, "name": "CorruptedVines", "qtde": "120" },
+        { "key": 9, "name": "CorruptedHornDrill", "qtde": "120" },
+        { "key": 10, "name": "ContinentThorn", "qtde": "10" },
+        { "key": 11, "name": "ElectricFishTail", "qtde": "5" },
+        { "key": 12, "name": "FrostyHand", "qtde": "5" },
+        { "key": 13, "name": "DragonArmor", "qtde": "5" },
+        { "key": 14, "name": "DogTail", "qtde": "5" },
+        { "key": 15, "name": "MechaReactor", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Critical_Catch_Upgrade_(Tier_6).png",
+      "qtde": "1"
+    },
+    {
+      "key": 403,
+      "name": "DecoratorWorkshop",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "30" },
+        { "key": 1, "name": "CorruptedPotOfMossBug", "qtde": "10" },
+        { "key": 2, "name": "CorruptedIceOrb", "qtde": "10" },
+        { "key": 3, "name": "SmallBirdBeak", "qtde": "16" },
+        { "key": 4, "name": "BlackLuckyCharm", "qtde": "9" },
+        { "key": 5, "name": "IceCrystal", "qtde": "9" }
+      ],
+      "icon": "/icons/ranks/Decorator_Workshop.png",
+      "qtde": "1"
+    },
+    {
+      "key": 404,
+      "name": "PremierBallUpgrade",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "500" },
+        { "key": 1, "name": "VirtualTail", "qtde": "130" },
+        { "key": 2, "name": "CorruptedVenomFlute", "qtde": "100" },
+        { "key": 3, "name": "LovelyTopknot", "qtde": "90" },
+        { "key": 4, "name": "RemainsOfGears", "qtde": "10" },
+        { "key": 5, "name": "CatfishWhiskers", "qtde": "10" },
+        { "key": 6, "name": "GiantTusk", "qtde": "1" },
+        { "key": 7, "name": "BearFeet", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Premier_Ball_Upgrade.png",
+      "qtde": "1"
+    },
+    {
+      "key": 405,
+      "name": "LegendaryBeastsLockersRecipe",
+      "ingredients": [
+        { "key": 0, "name": ".", "qtde": "1" },
+        { "key": 1, "name": "DrawingClipboard", "qtde": "000" },
+        { "key": 2, "name": "CorruptedMagnet", "qtde": "200" },
+        { "key": 3, "name": "CorruptedPotOfLava", "qtde": "200" },
+        { "key": 4, "name": "CorruptedGemStar", "qtde": "200" },
+        { "key": 5, "name": "SavageFin", "qtde": "200" },
+        { "key": 6, "name": "CorruptedBlackHull", "qtde": "100" },
+        { "key": 7, "name": "VirtualTail", "qtde": "100" },
+        { "key": 8, "name": "MoleHair", "qtde": "50" },
+        { "key": 9, "name": "AlolanElectricRatTail", "qtde": "25" },
+        { "key": 10, "name": "MountHorn", "qtde": "10" },
+        { "key": 11, "name": "RoyalTail", "qtde": "10" },
+        { "key": 12, "name": "BrutalFin", "qtde": "10" }
+      ],
+      "icon": "/icons/ranks/Legendary_Beasts_Lockers_Recipe.png",
+      "qtde": "1"
+    },
+    {
+      "key": 406,
+      "name": "SimpleBed",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "500" },
+        { "key": 1, "name": "BlackWoolBall", "qtde": "200" },
+        { "key": 2, "name": "CorruptedChampionBelt", "qtde": "150" },
+        { "key": 3, "name": "RoyalMane", "qtde": "150" },
+        { "key": 4, "name": "CorruptedIceOrb", "qtde": "150" },
+        { "key": 5, "name": "CorruptedPotOfMossBug", "qtde": "120" },
+        { "key": 6, "name": "SolidHead", "qtde": "10" }
+      ],
+      "icon": "/icons/ranks/Simple_Bed.png",
+      "qtde": "1"
+    },
+    {
+      "key": 407,
+      "name": "CharmanderToolkit",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "5" },
+        { "key": 1, "name": "CorruptedPotOfLava", "qtde": "3" },
+        { "key": 2, "name": "FireMonkeyHair", "qtde": "3" },
+        { "key": 3, "name": "RoyalMane", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Charmander_Toolkit.png",
+      "qtde": "1"
+    },
+    {
+      "key": 408,
+      "name": "SquirtleToolkit",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "5" },
+        { "key": 1, "name": "ElefishFin", "qtde": "3" },
+        { "key": 2, "name": "CorruptedDragonTooth", "qtde": "3" },
+        { "key": 3, "name": "CaveNail", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Squirtle_Toolkit.png",
+      "qtde": "1"
+    },
+    {
+      "key": 409,
+      "name": "BulbasaurToolkit",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "5" },
+        { "key": 1, "name": "CorruptedLeaves", "qtde": "3" },
+        { "key": 2, "name": "ToxicGosme", "qtde": "3" },
+        { "key": 3, "name": "GreenHair", "qtde": "2" }
+      ],
+      "icon": "/icons/ranks/Bulbasaur_Toolkit.png",
+      "qtde": "1"
+    },
+    {
+      "key": 410,
+      "name": "BrickWallpaper",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "25" },
+        { "key": 1, "name": "CorruptedLeaves", "qtde": "24" },
+        { "key": 2, "name": "SmallBirdBeak", "qtde": "23" },
+        { "key": 3, "name": "CorruptedPotOfLava", "qtde": "23" }
+      ],
+      "icon": "/icons/ranks/Brick_Wallpaper.png",
+      "qtde": "1"
+    },
+    {
+      "key": 411,
+      "name": "BlackWallpaper",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "25" },
+        { "key": 1, "name": "CorruptedLeaves", "qtde": "23" },
+        { "key": 2, "name": "BlackWoolBall", "qtde": "17" },
+        { "key": 3, "name": "CorruptedChampionBelt", "qtde": "13" }
+      ],
+      "icon": "/icons/ranks/Black_Wallpaper.png",
+      "qtde": "1"
+    },
+    {
+      "key": 412,
+      "name": "DarkWallpaper",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "25" },
+        { "key": 1, "name": "CorruptedLeaves", "qtde": "24" },
+        { "key": 2, "name": "GreenHair", "qtde": "7" },
+        { "key": 3, "name": "ToxicGosme", "qtde": "17" }
+      ],
+      "icon": "/icons/ranks/Dark_Wallpaper.png",
+      "qtde": "1"
+    },
+    {
+      "key": 413,
+      "name": "GrayWallpaper",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "25" },
+        { "key": 1, "name": "CorruptedLeaves", "qtde": "23" },
+        { "key": 2, "name": "CorruptedStreakTail", "qtde": "10" },
+        { "key": 3, "name": "CorruptedDragonTooth", "qtde": "24" }
+      ],
+      "icon": "/icons/ranks/Gray_Wallpaper.png",
+      "qtde": "1"
+    },
+    {
+      "key": 414,
+      "name": "PinkWallpaper",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "25" },
+        { "key": 1, "name": "CorruptedLeaves", "qtde": "26" },
+        { "key": 2, "name": "CurlyPigTail", "qtde": "10" },
+        { "key": 3, "name": "WhiteHair", "qtde": "7" }
+      ],
+      "icon": "/icons/ranks/Pink_Wallpaper.png",
+      "qtde": "1"
+    },
+    {
+      "key": 415,
+      "name": "ConcreteWallpaper",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "25" },
+        { "key": 1, "name": "CorruptedLeaves", "qtde": "23" },
+        { "key": 2, "name": "ToxicGosme", "qtde": "17" },
+        { "key": 3, "name": "CorruptedDollStar", "qtde": "13" }
+      ],
+      "icon": "/icons/ranks/Concrete_Wallpaper.png",
+      "qtde": "1"
+    },
+    {
+      "key": 416,
+      "name": "BlueWallpaper",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "25" },
+        { "key": 1, "name": "CorruptedLeaves", "qtde": "23" },
+        { "key": 2, "name": "CaveNail", "qtde": "13" },
+        { "key": 3, "name": "WhiskersFin", "qtde": "13" }
+      ],
+      "icon": "/icons/ranks/Blue_Wallpaper.png",
+      "qtde": "1"
+    },
+    {
+      "key": 417,
+      "name": "CheckeredWallpaper",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "25" },
+        { "key": 1, "name": "CorruptedLeaves", "qtde": "22" },
+        { "key": 2, "name": "CaveNail", "qtde": "13" },
+        { "key": 3, "name": "SolidHead", "qtde": "2" }
+      ],
+      "icon": "/icons/ranks/Blue_Checkered_Wallpaper.png",
+      "qtde": "1"
+    },
+    {
+      "key": 418,
+      "name": "RedWallpaper",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "25" },
+        { "key": 1, "name": "CorruptedLeaves", "qtde": "23" },
+        { "key": 2, "name": "FireMonkeyHair", "qtde": "13" },
+        { "key": 3, "name": "RoyalMane", "qtde": "13" }
+      ],
+      "icon": "/icons/ranks/Red_Wallpaper.png",
+      "qtde": "1"
+    },
+    {
+      "key": 419,
+      "name": "CyanWallpaper",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "25" },
+        { "key": 1, "name": "CorruptedLeaves", "qtde": "23" },
+        { "key": 2, "name": "MoleHair", "qtde": "13" },
+        { "key": 3, "name": "WhiskersFin", "qtde": "13" }
+      ],
+      "icon": "/icons/ranks/Cyan_Wallpaper.png",
+      "qtde": "1"
+    },
+    {
+      "key": 420,
+      "name": "BlueCheckeredWallpaper",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "25" },
+        { "key": 1, "name": "CorruptedLeaves", "qtde": "24" },
+        { "key": 2, "name": "CorruptedMagnet", "qtde": "23" },
+        { "key": 3, "name": "ElefishFin", "qtde": "13" }
+      ],
+      "icon": "/icons/ranks/Blue_Checkered_Wallpaper.png",
+      "qtde": "1"
+    },
+    {
+      "key": 421,
+      "name": "GreenWallpaper",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "25" },
+        { "key": 1, "name": "CorruptedLeaves", "qtde": "24" },
+        { "key": 2, "name": "CorruptedPotOfMossBug", "qtde": "13" },
+        { "key": 3, "name": "GreenHair", "qtde": "7" }
+      ],
+      "icon": "/icons/ranks/Green_Wallpaper.png",
+      "qtde": "1"
+    },
+    {
+      "key": 422,
+      "name": "PurpleWallpaper",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "25" },
+        { "key": 1, "name": "CorruptedLeaves", "qtde": "24" },
+        { "key": 2, "name": "CorruptedIcePiece", "qtde": "7" },
+        { "key": 3, "name": "CorruptedStreakTail", "qtde": "10" }
+      ],
+      "icon": "/icons/ranks/Purple_Wallpaper.png",
+      "qtde": "1"
+    },
+    {
+      "key": 423,
+      "name": "GreenCheckeredWallpaper",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "25" },
+        { "key": 1, "name": "CorruptedLeaves", "qtde": "23" },
+        { "key": 2, "name": "ToxicGosme", "qtde": "17" },
+        { "key": 3, "name": "CorruptedDollStar", "qtde": "13" }
+      ],
+      "icon": "/icons/ranks/Green_Checkered_Wallpaper.png",
+      "qtde": "1"
+    },
+    {
+      "key": 424,
+      "name": "NightmareBuilderKit",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "300" },
+        { "key": 1, "name": "BagwormGreenLeaves", "qtde": "60" },
+        { "key": 2, "name": "CorruptedCloud", "qtde": "60" },
+        { "key": 3, "name": "CorruptedLizardTail", "qtde": "60" },
+        { "key": 4, "name": "CorruptedSteelixTail", "qtde": "60" },
+        { "key": 5, "name": "BagwormPinkLeaves", "qtde": "5" },
+        { "key": 6, "name": "BagwormStone", "qtde": "5" },
+        { "key": 7, "name": "BigMountHorn", "qtde": "2" },
+        { "key": 8, "name": "RemainsOfGears", "qtde": "2" }
+      ],
+      "icon": "/icons/ranks/Nightmare_Builder_Kit.gif",
+      "qtde": "1"
+    },
+    {
+      "key": 425,
+      "name": "LuxuriousRedDisplayTable",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "60" },
+        { "key": 1, "name": "CorruptedPotOfLava", "qtde": "32" },
+        { "key": 2, "name": "CorruptedBlackHull", "qtde": "11" },
+        { "key": 3, "name": "CorruptedPoisonousTail", "qtde": "11" },
+        { "key": 4, "name": "PigEar", "qtde": "18" },
+        { "key": 5, "name": "CorruptedScizorClaw", "qtde": "14" }
+      ],
+      "icon": "/icons/ranks/Luxurious_Red_Balcony.png",
+      "qtde": "1"
+    },
+    {
+      "key": 426,
+      "name": "LuxuriousOrangeDisplayTable",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "60" },
+        { "key": 1, "name": "AlolanElectricRatTail", "qtde": "2" },
+        { "key": 2, "name": "SmallBirdBeak", "qtde": "35" },
+        { "key": 3, "name": "BearArm", "qtde": "10" },
+        { "key": 4, "name": "RoyalTail", "qtde": "1" },
+        { "key": 5, "name": "CorruptedCowTail", "qtde": "16" }
+      ],
+      "icon": "/icons/ranks/Luxurious_Orange_Balcony.png",
+      "qtde": "1"
+    },
+    {
+      "key": 427,
+      "name": "LuxuriousGreenDisplayTable",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "60" },
+        { "key": 1, "name": "FrostyHand", "qtde": "18" },
+        { "key": 2, "name": "ElectricFishTail", "qtde": "2" },
+        { "key": 3, "name": "BigMountHorn", "qtde": "1" },
+        { "key": 4, "name": "CorruptedCloud", "qtde": "20" },
+        { "key": 5, "name": "DarkEar", "qtde": "14" }
+      ],
+      "icon": "/icons/ranks/Luxurious_Green_Balcony.png",
+      "qtde": "1"
+    },
+    {
+      "key": 428,
+      "name": "LuxuriousPurpleDisplayTable",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "60" },
+        { "key": 1, "name": "CorruptedDollStar", "qtde": "18" },
+        { "key": 2, "name": "MachNail", "qtde": "1" },
+        { "key": 3, "name": "CorruptedVines", "qtde": "18" },
+        { "key": 4, "name": "CorruptedHornDrill", "qtde": "17" },
+        { "key": 5, "name": "CorruptedMissTraces", "qtde": "16" }
+      ],
+      "icon": "/icons/ranks/Luxurious_Purple_Balcony.png",
+      "qtde": "1"
+    },
+    {
+      "key": 429,
+      "name": "LuxuriousYellowDisplayTable",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "60" },
+        { "key": 1, "name": "LandSharkHorn", "qtde": "20" },
+        { "key": 2, "name": "SavageFin", "qtde": "20" },
+        { "key": 3, "name": "CorruptedPotOfMossBug", "qtde": "20" },
+        { "key": 4, "name": "SmallBirdBeak", "qtde": "40" },
+        { "key": 5, "name": "CorruptedDragonTooth", "qtde": "20" }
+      ],
+      "icon": "/icons/ranks/Luxurious_Yellow_Balcony.png",
+      "qtde": "1"
+    },
+    {
+      "key": 430,
+      "name": "LuxuriousBlueDisplayTable",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "60" },
+        { "key": 1, "name": "SmallBirdBeak", "qtde": "10" },
+        { "key": 2, "name": "CorruptedPotOfMossBug", "qtde": "10" },
+        { "key": 3, "name": "GiantTusk", "qtde": "1" },
+        { "key": 4, "name": "CorruptedPotOfLava", "qtde": "32" },
+        { "key": 5, "name": "CorruptedIceOrb", "qtde": "20" }
+      ],
+      "icon": "/icons/ranks/Luxurious_Blue_Balcony.png",
+      "qtde": "1"
+    },
+    {
+      "key": 431,
+      "name": "LuxuriousDarkBlueDisplayTable",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "60" },
+        { "key": 1, "name": "IceCrystal", "qtde": "20" },
+        { "key": 2, "name": "CorruptedChampionBelt", "qtde": "19" },
+        { "key": 3, "name": "CorruptedMagnet", "qtde": "40" },
+        { "key": 4, "name": "CorruptedLeaves", "qtde": "40" },
+        { "key": 5, "name": "BlackLuckyCharm", "qtde": "10" }
+      ],
+      "icon": "/icons/ranks/Luxurious_Dark_Blue_Balcony.png",
+      "qtde": "1"
+    },
+    {
+      "key": 432,
+      "name": "LuxuriousBlackDisplayTable",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "60" },
+        { "key": 1, "name": "RoyalMane", "qtde": "20" },
+        { "key": 2, "name": "MoleHair", "qtde": "20" },
+        { "key": 3, "name": "SavageFin", "qtde": "10" },
+        { "key": 4, "name": "MountHorn", "qtde": "1" },
+        { "key": 5, "name": "SolidHead", "qtde": "2" },
+        { "key": 6, "name": "CorruptedMissTraces", "qtde": "10" }
+      ],
+      "icon": "/icons/ranks/Luxurious_Black_Balcony.png",
+      "qtde": "1"
+    },
+    {
+      "key": 433,
+      "name": "LuxuriousBrownDisplayTable",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "60" },
+        { "key": 1, "name": "WhiskersFin", "qtde": "20" },
+        { "key": 2, "name": "SmallBirdBeak", "qtde": "36" },
+        { "key": 3, "name": "BlackWoolBall", "qtde": "20" },
+        { "key": 4, "name": "ElefishFin", "qtde": "20" },
+        { "key": 5, "name": "GreenHair", "qtde": "10" }
+      ],
+      "icon": "/icons/ranks/Luxurious_Brown_Balcony.png",
+      "qtde": "1"
+    },
+    {
+      "key": 434,
+      "name": "LuxuriousPinkDisplayTable",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "60" },
+        { "key": 1, "name": "CorruptedDragonTooth", "qtde": "50" },
+        { "key": 2, "name": "CorruptedDollStar", "qtde": "10" },
+        { "key": 3, "name": "CorruptedMagnet", "qtde": "20" },
+        { "key": 4, "name": "CorruptedIcePiece", "qtde": "10" },
+        { "key": 5, "name": "CorruptedStreakTail", "qtde": "20" }
+      ],
+      "icon": "/icons/ranks/Luxurious_Pink_Balcony.png",
+      "qtde": "1"
+    },
+    {
+      "key": 435,
+      "name": "LuxuriousLightGreenDisplayTable",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "60" },
+        { "key": 1, "name": "CompressedNightmareGem", "qtde": "10" },
+        { "key": 2, "name": "RemainsOfGears", "qtde": "3" },
+        { "key": 3, "name": "CorruptedMagnet", "qtde": "2" }
+      ],
+      "icon": "/icons/ranks/Luxurious_Light_Green_Balcony.png",
+      "qtde": "1"
+    },
+    {
+      "key": 436,
+      "name": "MysticalTailoringMachine",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "200" },
+        { "key": 1, "name": "EmperorTrident", "qtde": "1" },
+        { "key": 2, "name": "FlameTail", "qtde": "1" },
+        { "key": 3, "name": "GleamTail", "qtde": "1" },
+        { "key": 4, "name": "CorruptedPotOfLava", "qtde": "72" },
+        { "key": 5, "name": "CorruptedStreakTail", "qtde": "28" },
+        { "key": 6, "name": "CorruptedMagnet", "qtde": "68" },
+        { "key": 7, "name": "CorruptedVines", "qtde": "38" },
+        { "key": 8, "name": "WhiteHair", "qtde": "38" }
+      ],
+      "icon": "/icons/ranks/Mystical_Tailoring_Machine.png",
+      "qtde": "1"
+    },
+    {
+      "key": 437,
+      "name": "GreenEggChair",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "10" },
+        { "key": 1, "name": "CorruptedLeaves", "qtde": "4" },
+        { "key": 2, "name": "GreenHair", "qtde": "3" },
+        { "key": 3, "name": "MoleHair", "qtde": "3" },
+        { "key": 4, "name": "CorruptedIcePiece", "qtde": "2" },
+        { "key": 5, "name": "ToxicGosme", "qtde": "2" }
+      ],
+      "icon": "/icons/ranks/Green_Egg_Chair.png",
+      "qtde": "1"
+    },
+    {
+      "key": 438,
+      "name": "PinkEggChair",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "10" },
+        { "key": 1, "name": "CorruptedIcePiece", "qtde": "3" },
+        { "key": 2, "name": "CurlyPigTail", "qtde": "3" },
+        { "key": 3, "name": "CorruptedDragonTooth", "qtde": "3" },
+        { "key": 4, "name": "SavageFin", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Pink_Egg_Chair.png",
+      "qtde": "1"
+    },
+    {
+      "key": 439,
+      "name": "RedEggChair",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "10" },
+        { "key": 1, "name": "FireMonkeyHair", "qtde": "4" },
+        { "key": 2, "name": "CorruptedIcePiece", "qtde": "3" },
+        { "key": 3, "name": "CorruptedPotOfLava", "qtde": "3" },
+        { "key": 4, "name": "RoyalMane", "qtde": "3" },
+        { "key": 5, "name": "CorruptedMagnet", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Red_Egg_Chair.png",
+      "qtde": "1"
+    },
+    {
+      "key": 440,
+      "name": "GrayEggChair",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "10" },
+        { "key": 1, "name": "CorruptedIcePiece", "qtde": "4" },
+        { "key": 2, "name": "WhiteHair", "qtde": "3" },
+        { "key": 3, "name": "ElefishFin", "qtde": "3" },
+        { "key": 4, "name": "MoleHair", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Gray_Egg_Chair.png",
+      "qtde": "1"
+    },
+    {
+      "key": 441,
+      "name": "BlueEggChair",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "10" },
+        { "key": 1, "name": "CorruptedIcePiece", "qtde": "4" },
+        { "key": 2, "name": "CaveNail", "qtde": "3" },
+        { "key": 3, "name": "WhiskersFin", "qtde": "3" },
+        { "key": 4, "name": "RoyalMane", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Blue_Egg_Chair.png",
+      "qtde": "1"
+    },
+    {
+      "key": 442,
+      "name": "RedBench",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "5" },
+        { "key": 1, "name": "CorruptedMagnet", "qtde": "5" },
+        { "key": 2, "name": "RoyalMane", "qtde": "3" },
+        { "key": 3, "name": "FireMonkeyHair", "qtde": "2" }
+      ],
+      "icon": "/icons/ranks/Red_Bench.png",
+      "qtde": "1"
+    },
+    {
+      "key": 443,
+      "name": "BlueBench",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "5" },
+        { "key": 1, "name": "CorruptedMagnet", "qtde": "5" },
+        { "key": 2, "name": "WhiskersFin", "qtde": "3" },
+        { "key": 3, "name": "CaveNail", "qtde": "2" }
+      ],
+      "icon": "/icons/ranks/Blue_Bench.png",
+      "qtde": "1"
+    },
+    {
+      "key": 444,
+      "name": "YellowBench",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "5" },
+        { "key": 1, "name": "CorruptedMagnet", "qtde": "5" },
+        { "key": 2, "name": "SmallBirdBeak", "qtde": "4" },
+        { "key": 3, "name": "MoleHair", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Yellow_Bench.png",
+      "qtde": "1"
+    },
+    {
+      "key": 445,
+      "name": "GreenBench",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "5" },
+        { "key": 1, "name": "CorruptedMagnet", "qtde": "5" },
+        { "key": 2, "name": "GreenHair", "qtde": "1" },
+        { "key": 3, "name": "ToxicGosme", "qtde": "4" }
+      ],
+      "icon": "/icons/ranks/Green_Bench.png",
+      "qtde": "1"
+    },
+    {
+      "key": 446,
+      "name": "PurpleBench",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "5" },
+        { "key": 1, "name": "CorruptedMagnet", "qtde": "5" },
+        { "key": 2, "name": "CorruptedIceOrb", "qtde": "3" },
+        { "key": 3, "name": "CorruptedDragonTooth", "qtde": "4" }
+      ],
+      "icon": "/icons/ranks/Purple_Bench.png",
+      "qtde": "1"
+    },
+    {
+      "key": 447,
+      "name": "PinkBench",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "5" },
+        { "key": 1, "name": "CorruptedMagnet", "qtde": "5" },
+        { "key": 2, "name": "CurlyPigTail", "qtde": "1" },
+        { "key": 3, "name": "IceCrystal", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Pink_Bench.png",
+      "qtde": "1"
+    },
+    {
+      "key": 448,
+      "name": "CyanBench",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "5" },
+        { "key": 1, "name": "CorruptedMagnet", "qtde": "5" },
+        { "key": 2, "name": "LandSharkHorn", "qtde": "3" },
+        { "key": 3, "name": "ElefishFin", "qtde": "2" }
+      ],
+      "icon": "/icons/ranks/Cyan_Bench.png",
+      "qtde": "1"
+    },
+    {
+      "key": 449,
+      "name": "BlackBench",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "5" },
+        { "key": 1, "name": "CorruptedMagnet", "qtde": "5" },
+        { "key": 2, "name": "BlackWoolBall", "qtde": "4" },
+        { "key": 3, "name": "CorruptedChampionBelt", "qtde": "2" }
+      ],
+      "icon": "/icons/ranks/Black_Bench.png",
+      "qtde": "1"
+    },
+    {
+      "key": 450,
+      "name": "GrayBench",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "5" },
+        { "key": 1, "name": "CorruptedMagnet", "qtde": "5" },
+        { "key": 2, "name": "WhiteHair", "qtde": "3" },
+        { "key": 3, "name": "CorruptedLeaves", "qtde": "4" }
+      ],
+      "icon": "/icons/ranks/Gray_Bench.png",
+      "qtde": "1"
+    },
+    {
+      "key": 451,
+      "name": "OrangeBench",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboard", "qtde": "5" },
+        { "key": 1, "name": "CorruptedMagnet", "qtde": "5" },
+        { "key": 2, "name": "SavageFin", "qtde": "3" },
+        { "key": 3, "name": "CorruptedPotOfMossBug", "qtde": "2" }
+      ],
+      "icon": "/icons/ranks/Orange_Bench.png",
+      "qtde": "1"
+    },
+    {
+      "key": 452,
+      "name": "WhiteCoolSofa",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "WhiteHair", "qtde": "6" },
+        { "key": 2, "name": "WhiskersFin", "qtde": "3" },
+        { "key": 3, "name": "CaveNail", "qtde": "3" },
+        { "key": 4, "name": "MountHorn", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/White_Cool_Sofa.png",
+      "qtde": "1"
+    },
+    {
+      "key": 453,
+      "name": "YellowCoolSofa",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "CorruptedChampionBelt", "qtde": "4" },
+        { "key": 2, "name": "MoleHair", "qtde": "3" },
+        { "key": 3, "name": "SmallBirdBeak", "qtde": "3" },
+        { "key": 4, "name": "SavageFin", "qtde": "3" },
+        { "key": 5, "name": "MountHorn", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Yellow_Cool_Sofa.png",
+      "qtde": "1"
+    },
+    {
+      "key": 454,
+      "name": "BlueCoolSofa",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "CorruptedLeaves", "qtde": "6" },
+        { "key": 2, "name": "CaveNail", "qtde": "3" },
+        { "key": 3, "name": "SolidHead", "qtde": "1" },
+        { "key": 4, "name": "ElectricFishTail", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Blue_Cool_Sofa.png",
+      "qtde": "1"
+    },
+    {
+      "key": 455,
+      "name": "PurpleCoolSofa",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "CorruptedDollStar", "qtde": "5" },
+        { "key": 2, "name": "CorruptedStreakTail", "qtde": "3" },
+        { "key": 3, "name": "CorruptedMagnet", "qtde": "3" },
+        { "key": 4, "name": "CorruptedDragonTooth", "qtde": "2" },
+        { "key": 5, "name": "MountHorn", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Purple_Cool_Sofa.png",
+      "qtde": "1"
+    },
+    {
+      "key": 456,
+      "name": "CyanCoolSofa",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "CorruptedIcePiece", "qtde": "5" },
+        { "key": 2, "name": "BlackWoolBall", "qtde": "5" },
+        { "key": 3, "name": "CorruptedChampionBelt", "qtde": "4" },
+        { "key": 4, "name": "GearNose", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Cyan_Cool_Sofa.png",
+      "qtde": "1"
+    },
+    {
+      "key": 457,
+      "name": "YellowSofa",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "MountHorn", "qtde": "1" },
+        { "key": 2, "name": "MoleHair", "qtde": "6" },
+        { "key": 3, "name": "SmallBirdBeak", "qtde": "10" }
+      ],
+      "icon": "/icons/ranks/Yellow_Sofa.png",
+      "qtde": "1"
+    },
+    {
+      "key": 458,
+      "name": "BlueSofa",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "MountHorn", "qtde": "1" },
+        { "key": 2, "name": "WhiskersFin", "qtde": "6" },
+        { "key": 3, "name": "CaveNail", "qtde": "6" }
+      ],
+      "icon": "/icons/ranks/Blue_Sofa_RankS.png",
+      "qtde": "1"
+    },
+    {
+      "key": 459,
+      "name": "WhiteSofa",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "MountHorn", "qtde": "1" },
+        { "key": 2, "name": "WhiteHair", "qtde": "6" },
+        { "key": 3, "name": "ElefishFin", "qtde": "6" }
+      ],
+      "icon": "/icons/ranks/White_Sofa_RankS.png",
+      "qtde": "1"
+    },
+    {
+      "key": 460,
+      "name": "BlackSofa",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "MountHorn", "qtde": "1" },
+        { "key": 2, "name": "BlackWoolBall", "qtde": "7" },
+        { "key": 3, "name": "CorruptedChampionBelt", "qtde": "6" }
+      ],
+      "icon": "/icons/ranks/Black_Sofa_RankS.png",
+      "qtde": "1"
+    },
+    {
+      "key": 461,
+      "name": "PinkSofa",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "MountHorn", "qtde": "1" },
+        { "key": 2, "name": "CurlyPigTail", "qtde": "5" },
+        { "key": 3, "name": "CorruptedIceOrb", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Pink_Sofa.png",
+      "qtde": "1"
+    },
+    {
+      "key": 462,
+      "name": "PurpleSofa",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "MountHorn", "qtde": "1" },
+        { "key": 2, "name": "CorruptedMagnet", "qtde": "11" },
+        { "key": 3, "name": "CorruptedDragonTooth", "qtde": "10" }
+      ],
+      "icon": "/icons/ranks/Purple_Sofa.png",
+      "qtde": "1"
+    },
+    {
+      "key": 463,
+      "name": "GreenSofa",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "MountHorn", "qtde": "1" },
+        { "key": 2, "name": "GreenHair", "qtde": "4" },
+        { "key": 3, "name": "CorruptedLeaves", "qtde": "8" }
+      ],
+      "icon": "/icons/ranks/Green_Sofa_RankS.png",
+      "qtde": "1"
+    },
+    {
+      "key": 464,
+      "name": "RedSofa",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "MountHorn", "qtde": "1" },
+        { "key": 2, "name": "CorruptedPotOfLava", "qtde": "10" },
+        { "key": 3, "name": "FireMonkeyHair", "qtde": "6" }
+      ],
+      "icon": "/icons/ranks/Red_Sofa.png",
+      "qtde": "1"
+    },
+    {
+      "key": 465,
+      "name": "RedMewtwoThrone",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "300" },
+        { "key": 1, "name": "BlackWoolBall", "qtde": "60" },
+        { "key": 2, "name": "CorruptedPotOfLava", "qtde": "60" },
+        { "key": 3, "name": "CorruptedScizorClaw", "qtde": "60" },
+        { "key": 4, "name": "CorruptedPoisonousTail", "qtde": "55" },
+        { "key": 5, "name": "RedSpike", "qtde": "55" },
+        { "key": 6, "name": "SavageFin", "qtde": "55" },
+        { "key": 7, "name": "FlameTail", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Red_Mewtwo_Throne.png",
+      "qtde": "1"
+    },
+    {
+      "key": 466,
+      "name": "BlueMewtwoThrone",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "300" },
+        { "key": 1, "name": "BlackWoolBall", "qtde": "60" },
+        { "key": 2, "name": "VirtualTail", "qtde": "60" },
+        { "key": 3, "name": "MachNail", "qtde": "10" },
+        { "key": 4, "name": "CatfishTail", "qtde": "10" },
+        { "key": 5, "name": "MoleBigHair", "qtde": "5" },
+        { "key": 6, "name": "BladeHorn", "qtde": "2" }
+      ],
+      "icon": "/icons/ranks/Blue_Mewtwo_Throne.png",
+      "qtde": "1"
+    },
+    {
+      "key": 467,
+      "name": "WhiteMewtwoThrone",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "300" },
+        { "key": 1, "name": "BlackWoolBall", "qtde": "64" },
+        { "key": 2, "name": "LovelyTopknot", "qtde": "55" },
+        { "key": 3, "name": "CorruptedPotOfMossBug", "qtde": "60" },
+        { "key": 4, "name": "FrostyTail", "qtde": "21" },
+        { "key": 5, "name": "ElefishFin", "qtde": "60" },
+        { "key": 6, "name": "CorruptedIcePiece", "qtde": "55" },
+        { "key": 7, "name": "CorruptedHornDrill", "qtde": "50" },
+        { "key": 8, "name": "WhiteHair", "qtde": "50" }
+      ],
+      "icon": "/icons/ranks/White_Mewtwo_Throne.png",
+      "qtde": "1"
+    },
+    {
+      "key": 468,
+      "name": "DarkGreenMewtwoThrone",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "300" },
+        { "key": 1, "name": "CorruptedChampionBelt", "qtde": "85" },
+        { "key": 2, "name": "BlackWoolBall", "qtde": "75" },
+        { "key": 3, "name": "FrostyHand", "qtde": "25" },
+        { "key": 4, "name": "BagwormGreenLeaves", "qtde": "70" },
+        { "key": 5, "name": "CorruptedLizardTail", "qtde": "65" },
+        { "key": 6, "name": "GreenHair", "qtde": "65" },
+        { "key": 7, "name": "ElectricFishTail", "qtde": "4" }
+      ],
+      "icon": "/icons/ranks/Dark_Green_Mewtwo_Throne.png",
+      "qtde": "1"
+    },
+    {
+      "key": 469,
+      "name": "PinkMewtwoThrone",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "300" },
+        { "key": 1, "name": "BlackWoolBall", "qtde": "80" },
+        { "key": 2, "name": "BagwormPinkLeaves", "qtde": "4" },
+        { "key": 3, "name": "CurlyPigTail", "qtde": "75" },
+        { "key": 4, "name": "PigEar", "qtde": "80" },
+        { "key": 5, "name": "CorruptedPinsirHorn", "qtde": "70" },
+        { "key": 6, "name": "CorruptedVenomFlute", "qtde": "65" }
+      ],
+      "icon": "/icons/ranks/Pink_Mewtwo_Throne.png",
+      "qtde": "1"
+    },
+    {
+      "key": 470,
+      "name": "BlackMewtwoThrone",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "300" },
+        { "key": 1, "name": "BlackWoolBall", "qtde": "100" },
+        { "key": 2, "name": "CorruptedVenomFlute", "qtde": "50" },
+        { "key": 3, "name": "BigMountHorn", "qtde": "4" },
+        { "key": 4, "name": "CorruptedCloud", "qtde": "80" },
+        { "key": 5, "name": "CorruptedBlackHull", "qtde": "55" },
+        { "key": 6, "name": "CorruptedTreeBranch", "qtde": "50" }
+      ],
+      "icon": "/icons/ranks/Black_Mewtwo_Throne.png",
+      "qtde": "1"
+    },
+    {
+      "key": 471,
+      "name": "GreenMewtwoThrone",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "300" },
+        { "key": 1, "name": "BlackWoolBall", "qtde": "80" },
+        { "key": 2, "name": "GreenHair", "qtde": "75" },
+        { "key": 3, "name": "BearArm", "qtde": "75" },
+        { "key": 4, "name": "BagwormStone", "qtde": "4" },
+        { "key": 5, "name": "CorruptedLeaves", "qtde": "70" },
+        { "key": 6, "name": "CorruptedHornDrill", "qtde": "65" }
+      ],
+      "icon": "/icons/ranks/Green_Mewtwo_Throne.png",
+      "qtde": "1"
+    },
+    {
+      "key": 472,
+      "name": "OrangeMewtwoThrone",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "300" },
+        { "key": 1, "name": "BlackWoolBall", "qtde": "100" },
+        { "key": 2, "name": "SmallBirdBeak", "qtde": "90" },
+        { "key": 3, "name": "RoyalTail", "qtde": "4" },
+        { "key": 4, "name": "CorruptedIcePiece", "qtde": "80" },
+        { "key": 5, "name": "CorruptedDollStar", "qtde": "75" },
+        { "key": 6, "name": "AlolanElectricRatTail", "qtde": "3" },
+        { "key": 7, "name": "MoleBigHair", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Orange_Mewtwo_Throne.png",
+      "qtde": "1"
+    },
+    {
+      "key": 473,
+      "name": "MicrowaveOven",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "50" },
+        { "key": 1, "name": "ElefishFin", "qtde": "25" },
+        { "key": 2, "name": "RazorClaw", "qtde": "1" },
+        { "key": 3, "name": "CorruptedPotOfLava", "qtde": "28" },
+        { "key": 4, "name": "FireMonkeyHair", "qtde": "15" },
+        { "key": 5, "name": "CurlyPigTail", "qtde": "8" }
+      ],
+      "icon": "/icons/ranks/Microwave2.png",
+      "qtde": "1"
+    },
+    {
+      "key": 474,
+      "name": "GlassConsoleTable",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "10" },
+        { "key": 1, "name": "IceCrystal", "qtde": "3" },
+        { "key": 2, "name": "ElefishFin", "qtde": "4" },
+        { "key": 3, "name": "CorruptedDragonTooth", "qtde": "5" },
+        { "key": 4, "name": "MoleHair", "qtde": "3" },
+        { "key": 5, "name": "WhiteHair", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Glass_Balcony.png",
+      "qtde": "1"
+    },
+    {
+      "key": 475,
+      "name": "BlackArmchair",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "10" },
+        { "key": 1, "name": "CorruptedChampionBelt", "qtde": "7" },
+        { "key": 2, "name": "CorruptedLeaves", "qtde": "7" },
+        { "key": 3, "name": "BlackWoolBall", "qtde": "5" },
+        { "key": 4, "name": "CaveNail", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Black_Armchair.png",
+      "qtde": "1"
+    },
+    {
+      "key": 476,
+      "name": "MarbleCounter",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "20" },
+        { "key": 1, "name": "CaveNail", "qtde": "6" },
+        { "key": 2, "name": "RazorClaw", "qtde": "1" },
+        { "key": 3, "name": "ElefishFin", "qtde": "6" },
+        { "key": 4, "name": "GearNose", "qtde": "1" },
+        { "key": 5, "name": "CorruptedDragonTooth", "qtde": "7" }
+      ],
+      "icon": "/icons/ranks/Marble_Balcony.png",
+      "qtde": "1"
+    },
+    {
+      "key": 477,
+      "name": "CustomCountertop",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "WhiteHair", "qtde": "5" },
+        { "key": 2, "name": "ToxicGosme", "qtde": "3" },
+        { "key": 3, "name": "CorruptedLeaves", "qtde": "2" },
+        { "key": 4, "name": "CorruptedPotOfMossBug", "qtde": "2" },
+        { "key": 5, "name": "GreenHair", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Custom_Balcony.png",
+      "qtde": "1"
+    },
+    {
+      "key": 478,
+      "name": "BlueCustomCountertop",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "WhiteHair", "qtde": "6" },
+        { "key": 2, "name": "WhiskersFin", "qtde": "2" },
+        { "key": 3, "name": "LandSharkHorn", "qtde": "2" },
+        { "key": 4, "name": "CorruptedChampionBelt", "qtde": "2" }
+      ],
+      "icon": "/icons/ranks/Blue_Custom_Balcony.png",
+      "qtde": "1"
+    },
+    {
+      "key": 479,
+      "name": "RedModernCountertop",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "GearNose", "qtde": "1" },
+        { "key": 2, "name": "CorruptedPotOfLava", "qtde": "15" },
+        { "key": 3, "name": "FireMonkeyHair", "qtde": "8" }
+      ],
+      "icon": "/icons/ranks/Red_Modern_Balcony.png",
+      "qtde": "1"
+    },
+    {
+      "key": 480,
+      "name": "PurpleModernCountertop",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "GearNose", "qtde": "1" },
+        { "key": 2, "name": "CorruptedMagnet", "qtde": "15" },
+        { "key": 3, "name": "CorruptedDragonTooth", "qtde": "15" }
+      ],
+      "icon": "/icons/ranks/Purple_Modern_Balcony.png",
+      "qtde": "1"
+    },
+    {
+      "key": 481,
+      "name": "LargeRedModernStove",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "50" },
+        { "key": 1, "name": "EmperorTrident", "qtde": "1" },
+        { "key": 2, "name": "RazorClaw", "qtde": "1" },
+        { "key": 3, "name": "FireMonkeyHair", "qtde": "15" },
+        { "key": 4, "name": "CorruptedBlackHull", "qtde": "8" }
+      ],
+      "icon": "/icons/ranks/Large_Red_Modern_Stove.png",
+      "qtde": "1"
+    },
+    {
+      "key": 482,
+      "name": "ModernStove",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "50" },
+        { "key": 1, "name": "EmperorTrident", "qtde": "1" },
+        { "key": 2, "name": "RoyalMane", "qtde": "14" },
+        { "key": 3, "name": "RemainsOfGears", "qtde": "1" },
+        { "key": 4, "name": "CorruptedSteelixTail", "qtde": "3" },
+        { "key": 5, "name": "CorruptedPoisonousTail", "qtde": "2" }
+      ],
+      "icon": "/icons/ranks/Modern_Stove2.png",
+      "qtde": "1"
+    },
+    {
+      "key": 483,
+      "name": "LargeCustomStove",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "50" },
+        { "key": 1, "name": "BearArm", "qtde": "10" },
+        { "key": 2, "name": "CorruptedTreeBranch", "qtde": "11" },
+        { "key": 3, "name": "RoyalMane", "qtde": "15" },
+        { "key": 4, "name": "FireMonkeyHair", "qtde": "15" },
+        { "key": 5, "name": "CorruptedCowTail", "qtde": "11" }
+      ],
+      "icon": "/icons/ranks/Large_Custom_Stove.png",
+      "qtde": "1"
+    },
+    {
+      "key": 484,
+      "name": "LargeStove",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "50" },
+        { "key": 1, "name": "BearArm", "qtde": "10" },
+        { "key": 2, "name": "DarkEar", "qtde": "15" },
+        { "key": 3, "name": "RedSpike", "qtde": "15" },
+        { "key": 4, "name": "RoyalTail", "qtde": "1" },
+        { "key": 5, "name": "CorruptedGemStar", "qtde": "11" }
+      ],
+      "icon": "/icons/ranks/Large_Stove.png",
+      "qtde": "1"
+    },
+    {
+      "key": 485,
+      "name": "CustomStove",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "20" },
+        { "key": 1, "name": "DarkEar", "qtde": "4" },
+        { "key": 2, "name": "MoleBigHair", "qtde": "1" },
+        { "key": 3, "name": "CorruptedDragonTooth", "qtde": "4" },
+        { "key": 4, "name": "CorruptedHornDrill", "qtde": "5" },
+        { "key": 5, "name": "CorruptedPinsirHorn", "qtde": "5" }
+      ],
+      "icon": "/icons/ranks/Custom_Stove.png",
+      "qtde": "1"
+    },
+    {
+      "key": 486,
+      "name": "BlueCustomStove",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "20" },
+        { "key": 1, "name": "SolidHead", "qtde": "1" },
+        { "key": 2, "name": "CorruptedBlackHull", "qtde": "3" },
+        { "key": 3, "name": "CorruptedGemStar", "qtde": "3" },
+        { "key": 4, "name": "AlolanElectricRatTail", "qtde": "1" },
+        { "key": 5, "name": "SavageFin", "qtde": "5" }
+      ],
+      "icon": "/icons/ranks/Blue_Custom_Stove.png",
+      "qtde": "1"
+    },
+    {
+      "key": 487,
+      "name": "RedModernStove",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "20" },
+        { "key": 1, "name": "CorruptedPotOfLava", "qtde": "10" },
+        { "key": 2, "name": "CurlyPigTail", "qtde": "4" },
+        { "key": 3, "name": "FireMonkeyHair", "qtde": "7" },
+        { "key": 4, "name": "RoyalMane", "qtde": "7" },
+        { "key": 5, "name": "SmallBirdBeak", "qtde": "8" }
+      ],
+      "icon": "/icons/ranks/Red_Modern_Stove.png",
+      "qtde": "1"
+    },
+    {
+      "key": 488,
+      "name": "PurpleModernStove",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "20" },
+        { "key": 1, "name": "AlolanElectricRatTail", "qtde": "1" },
+        { "key": 2, "name": "CorruptedIcePiece", "qtde": "4" },
+        { "key": 3, "name": "BagwormStone", "qtde": "1" },
+        { "key": 4, "name": "SmallBirdBeak", "qtde": "7" }
+      ],
+      "icon": "/icons/ranks/Purple_Modern_Stove.png",
+      "qtde": "1"
+    },
+    {
+      "key": 489,
+      "name": "MagikarpAquarium",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "20" },
+        { "key": 1, "name": "IceCrystal", "qtde": "11" },
+        { "key": 2, "name": "ElefishFin", "qtde": "10" },
+        { "key": 3, "name": "SavageFin", "qtde": "10" }
+      ],
+      "icon": "/icons/ranks/Magikarp_Aquarium.gif",
+      "qtde": "1"
+    },
+    {
+      "key": 490,
+      "name": "ShinyMagikarpAquarium",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "40" },
+        { "key": 1, "name": "IceCrystal", "qtde": "12" },
+        { "key": 2, "name": "SavageFin", "qtde": "9" },
+        { "key": 3, "name": "MoleHair", "qtde": "12" },
+        { "key": 4, "name": "SmallBirdBeak", "qtde": "26" },
+        { "key": 5, "name": "ElefishFin", "qtde": "15" }
+      ],
+      "icon": "/icons/ranks/Shiny_Magikarp_Aquarium.gif",
+      "qtde": "1"
+    },
+    {
+      "key": 491,
+      "name": "LeafPillow",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "5" },
+        { "key": 1, "name": "GreenHair", "qtde": "2" },
+        { "key": 2, "name": "CorruptedLeaves", "qtde": "3" },
+        { "key": 3, "name": "ToxicGosme", "qtde": "2" },
+        { "key": 4, "name": "CorruptedPotOfMossBug", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Leaf_Pillow.png",
+      "qtde": "1"
+    },
+    {
+      "key": 492,
+      "name": "YellowPillow",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "5" },
+        { "key": 1, "name": "WhiteHair", "qtde": "4" },
+        { "key": 2, "name": "SmallBirdBeak", "qtde": "3" },
+        { "key": 3, "name": "MoleHair", "qtde": "1" },
+        { "key": 4, "name": "RoyalMane", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Yellow_Pillow.png",
+      "qtde": "1"
+    },
+    {
+      "key": 493,
+      "name": "StonePillow",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "5" },
+        { "key": 1, "name": "GreenHair", "qtde": "2" },
+        { "key": 2, "name": "ElefishFin", "qtde": "1" },
+        { "key": 3, "name": "CorruptedLeaves", "qtde": "3" },
+        { "key": 4, "name": "CorruptedIcePiece", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Stone_Pillow.png",
+      "qtde": "1"
+    },
+    {
+      "key": 494,
+      "name": "PokéBallPillow",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "5" },
+        { "key": 1, "name": "ElefishFin", "qtde": "4" },
+        { "key": 2, "name": "CorruptedPotOfMossBug", "qtde": "3" },
+        { "key": 3, "name": "WhiteHair", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Poké_Ball_Pillow.png",
+      "qtde": "1"
+    },
+    {
+      "key": 495,
+      "name": "CloudPillow",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "5" },
+        { "key": 1, "name": "WhiteHair", "qtde": "4" },
+        { "key": 2, "name": "WhiskersFin", "qtde": "1" },
+        { "key": 3, "name": "BlackWoolBall", "qtde": "2" },
+        { "key": 4, "name": "CaveNail", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Cloud_Pillow.png",
+      "qtde": "1"
+    },
+    {
+      "key": 496,
+      "name": "RedPokéBallPillow",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "5" },
+        { "key": 1, "name": "GreenHair", "qtde": "2" },
+        { "key": 2, "name": "CorruptedIcePiece", "qtde": "1" },
+        { "key": 3, "name": "CorruptedPotOfLava", "qtde": "2" },
+        { "key": 4, "name": "CurlyPigTail", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Red_Poké_Ball_Pillow.png",
+      "qtde": "1"
+    },
+    {
+      "key": 497,
+      "name": "WhitePokéBallPillow",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "5" },
+        { "key": 1, "name": "WhiteHair", "qtde": "4" },
+        { "key": 2, "name": "ElefishFin", "qtde": "1" },
+        { "key": 3, "name": "MoleHair", "qtde": "1" },
+        { "key": 4, "name": "CorruptedDragonTooth", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/White_Poké_Ball_Pillow.png",
+      "qtde": "1"
+    },
+    {
+      "key": 498,
+      "name": "SnorlaxArmchair",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "50" },
+        { "key": 1, "name": "BagwormGreenLeaves", "qtde": "23" },
+        { "key": 2, "name": "CorruptedVines", "qtde": "15" },
+        { "key": 3, "name": "CorruptedStreakTail", "qtde": "11" },
+        { "key": 4, "name": "CatfishTail", "qtde": "1" },
+        { "key": 5, "name": "CorruptedChampionBelt", "qtde": "15" }
+      ],
+      "icon": "/icons/ranks/Snorlax_Armchair.png",
+      "qtde": "1"
+    },
+    {
+      "key": 499,
+      "name": "DittoArmchair",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "50" },
+        { "key": 1, "name": "CurlyPigTail", "qtde": "8" },
+        { "key": 2, "name": "PigEar", "qtde": "14" },
+        { "key": 3, "name": "BagwormPinkLeaves", "qtde": "2" },
+        { "key": 4, "name": "MoleBigHair", "qtde": "1" },
+        { "key": 5, "name": "CorruptedPinsirHorn", "qtde": "15" }
+      ],
+      "icon": "/icons/ranks/Ditto_Armchair.png",
+      "qtde": "1"
+    },
+    {
+      "key": 500,
+      "name": "ShinyDittoArmchair",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "50" },
+        { "key": 1, "name": "GearNose", "qtde": "1" },
+        { "key": 2, "name": "CorruptedMissTraces", "qtde": "9" },
+        { "key": 3, "name": "CorruptedCloud", "qtde": "11" },
+        { "key": 4, "name": "BladeHorn", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Shiny_Ditto_Armchair.png",
+      "qtde": "1"
+    },
+    {
+      "key": 501,
+      "name": "RedPokéChest",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "10" },
+        { "key": 1, "name": "ElefishFin", "qtde": "3" },
+        { "key": 2, "name": "CorruptedPotOfLava", "qtde": "5" },
+        { "key": 3, "name": "SavageFin", "qtde": "3" },
+        { "key": 4, "name": "FireMonkeyHair", "qtde": "3" },
+        { "key": 5, "name": "CurlyPigTail", "qtde": "2" }
+      ],
+      "icon": "/icons/ranks/Red_Poké_Chest.png",
+      "qtde": "1"
+    },
+    {
+      "key": 502,
+      "name": "YellowPokéChest",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "10" },
+        { "key": 1, "name": "ElefishFin", "qtde": "4" },
+        { "key": 2, "name": "SmallBirdBeak", "qtde": "5" },
+        { "key": 3, "name": "MoleHair", "qtde": "3" },
+        { "key": 4, "name": "RoyalMane", "qtde": "3" },
+        { "key": 5, "name": "WhiteHair", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Yellow_Poké_Chest.png",
+      "qtde": "1"
+    },
+    {
+      "key": 503,
+      "name": "GreenPokéChest",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "10" },
+        { "key": 1, "name": "ElefishFin", "qtde": "3" },
+        { "key": 2, "name": "ToxicGosme", "qtde": "4" },
+        { "key": 3, "name": "GreenHair", "qtde": "2" },
+        { "key": 4, "name": "CorruptedLeaves", "qtde": "5" },
+        { "key": 5, "name": "CorruptedPotOfMossBug", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Green_Poké_Chest.png",
+      "qtde": "1"
+    },
+    {
+      "key": 504,
+      "name": "BlackPokéChest",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "10" },
+        { "key": 1, "name": "ElefishFin", "qtde": "4" },
+        { "key": 2, "name": "BlackWoolBall", "qtde": "4" },
+        { "key": 3, "name": "CorruptedChampionBelt", "qtde": "3" },
+        { "key": 4, "name": "CorruptedIcePiece", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Black_Poké_Chest.png",
+      "qtde": "1"
+    },
+    {
+      "key": 505,
+      "name": "BluePokéChest",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "10" },
+        { "key": 1, "name": "ElefishFin", "qtde": "3" },
+        { "key": 2, "name": "WhiskersFin", "qtde": "3" },
+        { "key": 3, "name": "SolidHead", "qtde": "1" },
+        { "key": 4, "name": "CorruptedMagnet", "qtde": "5" }
+      ],
+      "icon": "/icons/ranks/Blue_Poké_Chest.png",
+      "qtde": "1"
+    },
+    {
+      "key": 506,
+      "name": "ClassicPillar",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "5" },
+        { "key": 1, "name": "CorruptedSteelixTail", "qtde": "2" },
+        { "key": 2, "name": "CorruptedCloud", "qtde": "2" },
+        { "key": 3, "name": "CorruptedChampionBelt", "qtde": "2" }
+      ],
+      "icon": "/icons/ranks/Classic_Pillar.png",
+      "qtde": "1"
+    },
+    {
+      "key": 507,
+      "name": "MarbleClassicPillar",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "5" },
+        { "key": 1, "name": "CorruptedHornDrill", "qtde": "3" },
+        { "key": 2, "name": "CorruptedCowTail", "qtde": "2" },
+        { "key": 3, "name": "CorruptedPinsirHorn", "qtde": "2" }
+      ],
+      "icon": "/icons/ranks/Marble_Classic_Pillar.png",
+      "qtde": "1"
+    },
+    {
+      "key": 508,
+      "name": "GoldenClassicPillar",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "5" },
+        { "key": 1, "name": "MoleHair", "qtde": "2" },
+        { "key": 2, "name": "SavageFin", "qtde": "2" },
+        { "key": 3, "name": "PsychicMustache", "qtde": "2" }
+      ],
+      "icon": "/icons/ranks/Golden_Classic_Pillar.png",
+      "qtde": "1"
+    },
+    {
+      "key": 509,
+      "name": "StarsCarpet",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "75" },
+        { "key": 1, "name": "CorruptedMagnet", "qtde": "19" },
+        { "key": 2, "name": "CorruptedDollStar", "qtde": "24" },
+        { "key": 3, "name": "CorruptedVines", "qtde": "23" },
+        { "key": 4, "name": "CorruptedMissTraces", "qtde": "13" },
+        { "key": 5, "name": "PsychicMustache", "qtde": "13" },
+        { "key": 6, "name": "PigEar", "qtde": "13" }
+      ],
+      "icon": "/icons/ranks/Stars_Carpet.png",
+      "qtde": "1"
+    },
+    {
+      "key": 510,
+      "name": "PokéBallCarpet",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "75" },
+        { "key": 1, "name": "WhiteHair", "qtde": "24" },
+        { "key": 2, "name": "BlackWoolBall", "qtde": "30" },
+        { "key": 3, "name": "CorruptedPotOfLava", "qtde": "42" },
+        { "key": 4, "name": "CorruptedScizorClaw", "qtde": "17" },
+        { "key": 5, "name": "LovelyTopknot", "qtde": "13" }
+      ],
+      "icon": "/icons/ranks/Poké_Ball_Carpet.png",
+      "qtde": "1"
+    },
+    {
+      "key": 511,
+      "name": "CeruleanCarpet",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "75" },
+        { "key": 1, "name": "ElefishFin", "qtde": "23" },
+        { "key": 2, "name": "WhiskersFin", "qtde": "20" },
+        { "key": 3, "name": "CorruptedStreakTail", "qtde": "17" },
+        { "key": 4, "name": "CatfishTail", "qtde": "3" },
+        { "key": 5, "name": "BrutalFin", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Cerulean_Carpet.png",
+      "qtde": "1"
+    },
+    {
+      "key": 512,
+      "name": "Closet",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "GearNose", "qtde": "1" },
+        { "key": 2, "name": "RazorClaw", "qtde": "1" },
+        { "key": 3, "name": "ElefishFin", "qtde": "4" },
+        { "key": 4, "name": "WhiteHair", "qtde": "4" }
+      ],
+      "icon": "/icons/ranks/Closet.png",
+      "qtde": "1"
+    },
+    {
+      "key": 513,
+      "name": "BlackWoodenCloset",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "SmallBirdBeak", "qtde": "13" },
+        { "key": 2, "name": "CorruptedLeaves", "qtde": "10" },
+        { "key": 3, "name": "CorruptedChampionBelt", "qtde": "5" },
+        { "key": 4, "name": "CorruptedMagnet", "qtde": "10" }
+      ],
+      "icon": "/icons/ranks/Black_Wooden_Closet.png",
+      "qtde": "1"
+    },
+    {
+      "key": 514,
+      "name": "WoodenCloset",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "Hair", "qtde": "8" },
+        { "key": 2, "name": "CorruptedIceOrb", "qtde": "5" },
+        { "key": 3, "name": "CorruptedDragonTooth", "qtde": "10" },
+        { "key": 4, "name": "ElefishFin", "qtde": "5" }
+      ],
+      "icon": "/icons/ranks/Wooden_Closet.png",
+      "qtde": "1"
+    },
+    {
+      "key": 515,
+      "name": "Wardrobe",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "CorruptedDragonTooth", "qtde": "14" },
+        { "key": 2, "name": "MoleHair", "qtde": "5" },
+        { "key": 3, "name": "CorruptedPotOfLava", "qtde": "10" },
+        { "key": 4, "name": "WhiteHair", "qtde": "5" }
+      ],
+      "icon": "/icons/ranks/Wardrobe.png",
+      "qtde": "1"
+    },
+    {
+      "key": 516,
+      "name": "CyanWardrobe",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "WhiteHair", "qtde": "5" },
+        { "key": 2, "name": "GearNose", "qtde": "1" },
+        { "key": 3, "name": "WhiskersFin", "qtde": "5" },
+        { "key": 4, "name": "GreenHair", "qtde": "4" }
+      ],
+      "icon": "/icons/ranks/Cyan_Wardrobe.png",
+      "qtde": "1"
+    },
+    {
+      "key": 517,
+      "name": "BlueWardrobe",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "CaveNail", "qtde": "6" },
+        { "key": 2, "name": "CorruptedChampionBelt", "qtde": "5" },
+        { "key": 3, "name": "CorruptedDollStar", "qtde": "5" },
+        { "key": 4, "name": "CurlyPigTail", "qtde": "4" }
+      ],
+      "icon": "/icons/ranks/Blue_Wardrobe.png",
+      "qtde": "1"
+    },
+    {
+      "key": 518,
+      "name": "BeigeOfficeChair",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "100" },
+        { "key": 1, "name": "CorruptedDragonTooth", "qtde": "62" },
+        { "key": 2, "name": "SmallBirdBeak", "qtde": "56" },
+        { "key": 3, "name": "MoleBigHair", "qtde": "2" },
+        { "key": 4, "name": "CorruptedGemStar", "qtde": "23" },
+        { "key": 5, "name": "BagwormStone", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Beige_Office_Chair.png",
+      "qtde": "1"
+    },
+    {
+      "key": 519,
+      "name": "OrangeOfficeChair",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "100" },
+        { "key": 1, "name": "SmallBirdBeak", "qtde": "56" },
+        { "key": 2, "name": "CorruptedFeather", "qtde": "23" },
+        { "key": 3, "name": "RoyalMane", "qtde": "31" },
+        { "key": 4, "name": "CorruptedTreeBranch", "qtde": "23" },
+        { "key": 5, "name": "BearArm", "qtde": "18" }
+      ],
+      "icon": "/icons/ranks/Orange_Office_Chair.png",
+      "qtde": "1"
+    },
+    {
+      "key": 520,
+      "name": "BlackOfficeChair",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "100" },
+        { "key": 1, "name": "CorruptedLeaves", "qtde": "60" },
+        { "key": 2, "name": "CorruptedLizardTail", "qtde": "30" },
+        { "key": 3, "name": "CorruptedCloud", "qtde": "20" },
+        { "key": 4, "name": "BlackWoolBall", "qtde": "20" },
+        { "key": 5, "name": "BigMountHorn", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Black_Office_Chair.png",
+      "qtde": "1"
+    },
+    {
+      "key": 521,
+      "name": "GamingComputer",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "5" },
+        { "key": 1, "name": "CorruptedChampionBelt", "qtde": "3" },
+        { "key": 2, "name": "ElefishFin", "qtde": "3" },
+        { "key": 3, "name": "CorruptedMagnet", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Gaming_Computer.png",
+      "qtde": "1"
+    },
+    {
+      "key": 522,
+      "name": "LargeTable",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "5" },
+        { "key": 1, "name": "BlackWoolBall", "qtde": "5" },
+        { "key": 2, "name": "MoleHair", "qtde": "3" },
+        { "key": 3, "name": "CorruptedDragonTooth", "qtde": "2" }
+      ],
+      "icon": "/icons/ranks/Large_Table.png",
+      "qtde": "1"
+    },
+    {
+      "key": 523,
+      "name": "SlimTable",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "5" },
+        { "key": 1, "name": "SmallBirdBeak", "qtde": "5" },
+        { "key": 2, "name": "CorruptedMagnet", "qtde": "5" },
+        { "key": 3, "name": "BlackWoolBall", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Slim_Table.png",
+      "qtde": "1"
+    },
+    {
+      "key": 524,
+      "name": "ModernTable",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "50" },
+        { "key": 1, "name": "CorruptedIcePiece", "qtde": "11" },
+        { "key": 2, "name": "CorruptedScizorClaw", "qtde": "11" },
+        { "key": 3, "name": "CorruptedTreeBranch", "qtde": "11" },
+        { "key": 4, "name": "DarkEar", "qtde": "15" },
+        { "key": 5, "name": "CorruptedPoisonousTail", "qtde": "8" }
+      ],
+      "icon": "/icons/ranks/Modern_Table2.png",
+      "qtde": "1"
+    },
+    {
+      "key": 525,
+      "name": "BlueChair",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "5" },
+        { "key": 1, "name": "ElefishFin", "qtde": "3" },
+        { "key": 2, "name": "WhiskersFin", "qtde": "3" },
+        { "key": 3, "name": "CaveNail", "qtde": "2" }
+      ],
+      "icon": "/icons/ranks/Blue_Chair.png",
+      "qtde": "1"
+    },
+    {
+      "key": 526,
+      "name": "BrownChair",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "5" },
+        { "key": 1, "name": "ElefishFin", "qtde": "3" },
+        { "key": 2, "name": "ToxicGosme", "qtde": "3" },
+        { "key": 3, "name": "CorruptedLeaves", "qtde": "4" }
+      ],
+      "icon": "/icons/ranks/Brown_Chair.png",
+      "qtde": "1"
+    },
+    {
+      "key": 527,
+      "name": "RedChair",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "5" },
+        { "key": 1, "name": "ElefishFin", "qtde": "3" },
+        { "key": 2, "name": "CorruptedPotOfLava", "qtde": "5" },
+        { "key": 3, "name": "FireMonkeyHair", "qtde": "2" }
+      ],
+      "icon": "/icons/ranks/Red_Chair.png",
+      "qtde": "1"
+    },
+    {
+      "key": 528,
+      "name": "Sink",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "50" },
+        { "key": 1, "name": "CorruptedChampionBelt", "qtde": "17" },
+        { "key": 2, "name": "WhiskersFin", "qtde": "15" },
+        { "key": 3, "name": "CorruptedMagnet", "qtde": "28" },
+        { "key": 4, "name": "IceCrystal", "qtde": "15" },
+        { "key": 5, "name": "CaveNail", "qtde": "15" }
+      ],
+      "icon": "/icons/ranks/Sink.png",
+      "qtde": "1"
+    },
+    {
+      "key": 529,
+      "name": "YellowHealingMachine",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "500" },
+        { "key": 1, "name": "CorruptedMagnet", "qtde": "280" },
+        { "key": 2, "name": "CatfishTail", "qtde": "20" },
+        { "key": 3, "name": "CaveNail", "qtde": "15" },
+        { "key": 4, "name": "RemainsOfGears", "qtde": "10" },
+        { "key": 5, "name": "SolidHead", "qtde": "15" },
+        { "key": 6, "name": "GearNose", "qtde": "2" }
+      ],
+      "icon": "/icons/ranks/Yellow_Healing_Machine.png",
+      "qtde": "1"
+    },
+    {
+      "key": 530,
+      "name": "GreenHealingMachine",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "500" },
+        { "key": 1, "name": "RemainsOfGears", "qtde": "10" },
+        { "key": 2, "name": "CorruptedMagnet", "qtde": "280" },
+        { "key": 3, "name": "GreenHair", "qtde": "87" },
+        { "key": 4, "name": "ToxicGosme", "qtde": "200" },
+        { "key": 5, "name": "LovelyTopknot", "qtde": "87" },
+        { "key": 6, "name": "BagwormGreenLeaves", "qtde": "10" }
+      ],
+      "icon": "/icons/ranks/Green_Healing_Machine.png",
+      "qtde": "1"
+    },
+    {
+      "key": 531,
+      "name": "BlueHealingMachine",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "500" },
+        { "key": 1, "name": "CorruptedMagnet", "qtde": "80" },
+        { "key": 2, "name": "MoleHair", "qtde": "80" },
+        { "key": 3, "name": "PsychicMustache", "qtde": "80" },
+        { "key": 4, "name": "DragonWings", "qtde": "80" },
+        { "key": 5, "name": "AlolanElectricRatTail", "qtde": "15" },
+        { "key": 6, "name": "RemainsOfGears", "qtde": "10" },
+        { "key": 7, "name": "RoyalTail", "qtde": "10" }
+      ],
+      "icon": "/icons/ranks/Blue_Healing_Machine.png",
+      "qtde": "1"
+    },
+    {
+      "key": 532,
+      "name": "UnpackedKecleon'sShop-Stage1",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "1000" },
+        { "key": 1, "name": "BigIceBall", "qtde": "150" },
+        { "key": 2, "name": "CorruptedPinsirHorn", "qtde": "150" },
+        { "key": 3, "name": "DarkEar", "qtde": "150" },
+        { "key": 4, "name": "BlackLuckyCharm", "qtde": "150" },
+        { "key": 5, "name": "DragonWings", "qtde": "150" },
+        { "key": 6, "name": "CorruptedTreeBranch", "qtde": "150" },
+        { "key": 7, "name": "BearArm", "qtde": "100" },
+        { "key": 8, "name": "GreenHair", "qtde": "100" },
+        { "key": 9, "name": "BagwormStone", "qtde": "5" },
+        { "key": 10, "name": "TracesOfVoodooDoll", "qtde": "1" },
+        { "key": 11, "name": "EelRemains", "qtde": "1" },
+        { "key": 12, "name": "DragonArmor", "qtde": "1" },
+        { "key": 13, "name": "MechaReactor", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Kecleon's_Shop_-_Stage_1.png",
+      "qtde": "1"
+    },
+    {
+      "key": 533,
+      "name": "Kecleon'sContract(Stage2)",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "10" },
+        { "key": 1, "name": "Diamonds", "qtde": "20" },
+        { "key": 2, "name": "RoyalMane", "qtde": "5" },
+        { "key": 3, "name": "CorruptedIceOrb", "qtde": "5" },
+        { "key": 4, "name": "CorruptedLeaves", "qtde": "5" }
+      ],
+      "icon": "/icons/ranks/Kecleon's_Contract_(Stage_2).png",
+      "qtde": "1"
+    },
+    {
+      "key": 534,
+      "name": "Kecleon'sContract(Stage3)",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "20" },
+        { "key": 1, "name": "Diamonds", "qtde": "25" },
+        { "key": 2, "name": "MoleHair", "qtde": "5" },
+        { "key": 3, "name": "SavageFin", "qtde": "5" },
+        { "key": 4, "name": "BlackWoolBall", "qtde": "5" }
+      ],
+      "icon": "/icons/ranks/Kecleon's_Contract_(Stage_3).png",
+      "qtde": "1"
+    },
+    {
+      "key": 535,
+      "name": "TentacoolLamp",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "5" },
+        { "key": 1, "name": "CorruptedMagnet", "qtde": "3" },
+        { "key": 2, "name": "WhiskersFin", "qtde": "3" },
+        { "key": 3, "name": "RoyalMane", "qtde": "1" },
+        { "key": 4, "name": "CorruptedPotOfLava", "qtde": "2" },
+        { "key": 5, "name": "IceCrystal", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Tentacool_Lamp.png",
+      "qtde": "1"
+    },
+    {
+      "key": 536,
+      "name": "ShinyTentacoolLamp",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "10" },
+        { "key": 1, "name": "CorruptedMagnet", "qtde": "5" },
+        { "key": 2, "name": "WhiskersFin", "qtde": "3" },
+        { "key": 3, "name": "ToxicGosme", "qtde": "5" },
+        { "key": 4, "name": "CorruptedPotOfMossBug", "qtde": "3" },
+        { "key": 5, "name": "RoyalMane", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Shiny_Tentacool_Lamp.png",
+      "qtde": "1"
+    },
+    {
+      "key": 537,
+      "name": "Lamp",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "5" },
+        { "key": 1, "name": "CorruptedMagnet", "qtde": "3" },
+        { "key": 2, "name": "SavageFin", "qtde": "3" },
+        { "key": 3, "name": "MoleHair", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Lamp.png",
+      "qtde": "1"
+    },
+    {
+      "key": 538,
+      "name": "Lamp",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "5" },
+        { "key": 1, "name": "CorruptedMagnet", "qtde": "6" },
+        { "key": 2, "name": "CorruptedPotOfLava", "qtde": "5" },
+        { "key": 3, "name": "ElefishFin", "qtde": "2" }
+      ],
+      "icon": "/icons/ranks/Lamp_2.png",
+      "qtde": "1"
+    },
+    {
+      "key": 539,
+      "name": "MimikyuLamp",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "AlolanElectricRatTail", "qtde": "1" },
+        { "key": 2, "name": "MoleHair", "qtde": "3" },
+        { "key": 3, "name": "PsychicMustache", "qtde": "3" },
+        { "key": 4, "name": "CorruptedDollStar", "qtde": "3" },
+        { "key": 5, "name": "CorruptedMissTraces", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Mimikyu_Lamp.png",
+      "qtde": "1"
+    },
+    {
+      "key": 540,
+      "name": "BulbasaurLamp",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "AlolanElectricRatTail", "qtde": "1" },
+        { "key": 2, "name": "CorruptedLeaves", "qtde": "10" },
+        { "key": 3, "name": "BagwormGreenLeaves", "qtde": "3" },
+        { "key": 4, "name": "FrostyTail", "qtde": "3" },
+        { "key": 5, "name": "CorruptedPoisonousTail", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Bulbasaur_Lamp.png",
+      "qtde": "1"
+    },
+    {
+      "key": 541,
+      "name": "SquirtleLamp",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "AlolanElectricRatTail", "qtde": "1" },
+        { "key": 2, "name": "WhiskersFin", "qtde": "3" },
+        { "key": 3, "name": "CorruptedBlackHull", "qtde": "2" },
+        { "key": 4, "name": "SolidHead", "qtde": "1" }
+      ],
+      "icon": "/icons/ranks/Squirtle_Lamp.png",
+      "qtde": "1"
+    },
+    {
+      "key": 542,
+      "name": "CharmanderLamp",
+      "ingredients": [
+        { "key": 0, "name": "DrawingClipboards", "qtde": "15" },
+        { "key": 1, "name": "AlolanElectricRatTail", "qtde": "1" },
+        { "key": 2, "name": "CorruptedPotOfLava", "qtde": "6" },
+        { "key": 3, "name": "BlackWoolBall", "qtde": "4" },
+        { "key": 4, "name": "RoyalMane", "qtde": "4" },
+        { "key": 5, "name": "RedSpike", "qtde": "3" }
+      ],
+      "icon": "/icons/ranks/Charmander_Lamp.png",
+      "qtde": "1"
+    }
+  ]
+}

@@ -21,8 +21,8 @@ root.render(
           colorBgHeader: "#000",
           colorBgContainer: "#000",
           colorText: "#ccc",
+          colorTextLightSolid: "#ccc",
           colorBorderSecondary: "#FC2947",
-          colorTextLightSolid: "#FC2947",
         },
         components: {
           Layout: {

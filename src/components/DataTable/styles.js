@@ -18,5 +18,7 @@ export const MinorIcon = styled(Icon)`
 `;
     
 export const MultiplierInput = styled.input`
-    width: 20%;
+    width: 30%;
+    border: 2px solid #FC2947;
+    color: #000;
 `;

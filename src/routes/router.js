@@ -14,6 +14,7 @@ import EstilistaA from "./EstilistaA";
 import EstilistaB from "./EstilistaB";
 import Chemical from "./Chemical/";
 import Tailoring from "./Tailoring/";
+import LinksPage from "./LinksPage/";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -26,6 +27,7 @@ const router = createBrowserRouter(
       <Route path="EstilistaA" element={<EstilistaA />} />
       <Route path="EstilistaB" element={<EstilistaB />} />
       <Route path="Tailoring" element={<Tailoring />} />
+      <Route path="Links" element={<LinksPage />} />
 
     </Route>
   )

@@ -1,8 +1,10 @@
 import React from 'react'
 
 import Header from "../../components/HeaderAntd";
-import Content from "../../components/Content"
+import Content from "../../components/ContentAntd"
 import DataTable from '../../components/DataTable';
+
+import data from '../../data/StylistS.json'
 
 import { StyledContainer } from './styles'
 
@@ -14,7 +16,7 @@ const EstilistaS = () => {
       <Content>
         <StyledContainer>
 
-          <DataTable/>
+        <DataTable data={data}/>
 
         </StyledContainer>
       </Content>

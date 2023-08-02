@@ -1,0 +1,903 @@
+{
+  "id": "STYLISTB",
+  "crafts": [
+    {
+      "key": 181,
+      "name": "Leather",
+      "ingredients": [
+        { "key": 0, "name": "DogEar", "qtde": "12" },
+        { "key": 1, "name": "Springs", "qtde": "17" },
+        { "key": 2, "name": "CowTail", "qtde": "12" },
+        { "key": 3, "name": "ElephantFoot", "qtde": "12" },
+        { "key": 4, "name": "StreakTail", "qtde": "12" }
+      ],
+      "icon": "/icons/rankb/Leather.png",
+      "qtde": "1"
+    },
+    {
+      "key": 182,
+      "name": "RefinedFashionPoint",
+      "ingredients": [{ "key": 0, "name": "FashionPoint", "qtde": "100" }],
+      "icon": "/icons/rankb/Refined_Fashion_Point.png",
+      "qtde": "1"
+    },
+    {
+      "key": 183,
+      "name": "GreaterXPBanner",
+      "ingredients": [
+        { "key": 0, "name": "GreenTissue", "qtde": "6" },
+        { "key": 1, "name": "RefinedStylePoint", "qtde": "20" }
+      ],
+      "icon": "/icons/rankb/Great_XP_Banner.png",
+      "qtde": "1"
+    },
+    {
+      "key": 184,
+      "name": "ToyFactory",
+      "ingredients": [
+        { "key": 0, "name": "Treadmill", "qtde": "1" },
+        { "key": 1, "name": "OakLog", "qtde": "1000" }
+      ],
+      "icon": "/icons/rankb/Toy_Factory.png",
+      "qtde": "1"
+    },
+    {
+      "key": 186,
+      "name": "MewtwoMaleOutfit",
+      "ingredients": [
+        { "key": 0, "name": "Leather", "qtde": "10" },
+        { "key": 1, "name": "FutureOrb", "qtde": "200" },
+        { "key": 2, "name": "StrangeAntenna", "qtde": "100" },
+        { "key": 3, "name": "SlowTail", "qtde": "10" },
+        { "key": 4, "name": "Pawn", "qtde": "200" },
+        { "key": 5, "name": "PsycraftTapestry", "qtde": "2" },
+        { "key": 6, "name": "PsyduckMug", "qtde": "5" },
+        { "key": 7, "name": "LinearlyGuidedHypnosis", "qtde": "70" },
+        { "key": 8, "name": "RefinedFashionPoint", "qtde": "12" }
+      ],
+      "icon": "/icons/rankb/MewtwoCosplay.png",
+      "qtde": "1"
+    },
+    {
+      "key": 187,
+      "name": "CowgirlOutfit",
+      "ingredients": [
+        { "key": 0, "name": "Leather", "qtde": "10" },
+        { "key": 1, "name": "BullTail", "qtde": "30" },
+        { "key": 2, "name": "CowboyHat", "qtde": "1" },
+        { "key": 3, "name": "MimicClothes", "qtde": "20" },
+        { "key": 4, "name": "Disguise", "qtde": "2" },
+        { "key": 5, "name": "Mediling", "qtde": "200" },
+        { "key": 6, "name": "PalmLeaves", "qtde": "20" },
+        { "key": 7, "name": "CureFlower", "qtde": "50" },
+        { "key": 8, "name": "WaterPlant", "qtde": "100" },
+        { "key": 9, "name": "RefinedFashionPoint", "qtde": "12" }
+      ],
+      "icon": "/icons/rankb/CowgirlOutfit.png",
+      "qtde": "1"
+    },
+    {
+      "key": 188,
+      "name": "OrientalFighterOutfit",
+      "ingredients": [
+        { "key": 0, "name": "Leather", "qtde": "10" },
+        { "key": 1, "name": "SplinterKimono", "qtde": "1" },
+        { "key": 2, "name": "DragonTattoo", "qtde": "1" },
+        { "key": 3, "name": "CuteBall", "qtde": "200" },
+        { "key": 4, "name": "EruptionEars", "qtde": "100" },
+        { "key": 5, "name": "FemaleEar", "qtde": "100" },
+        { "key": 6, "name": "FoxTail", "qtde": "5" },
+        { "key": 7, "name": "RefinedFashionPoint", "qtde": "12" }
+      ],
+      "icon": "/icons/rankb/OrientalFighter.png",
+      "qtde": "1"
+    },
+    {
+      "key": 189,
+      "name": "LongcapFemaleOutfit",
+      "ingredients": [
+        { "key": 0, "name": "Leather", "qtde": "10" },
+        { "key": 1, "name": "StreakTail", "qtde": "100" },
+        { "key": 2, "name": "LizardTail", "qtde": "30" },
+        { "key": 3, "name": "GyaradosTail", "qtde": "20" },
+        { "key": 4, "name": "BigSeed", "qtde": "70" },
+        { "key": 5, "name": "BeautifulScales", "qtde": "1" },
+        { "key": 6, "name": "DollStar", "qtde": "100" },
+        { "key": 7, "name": "RefinedFashionPoint", "qtde": "12" }
+      ],
+      "icon": "/icons/rankb/LongcapeOutfit.png",
+      "qtde": "1"
+    },
+    {
+      "key": 190,
+      "name": "StreetFighterOutfit",
+      "ingredients": [
+        { "key": 0, "name": "Leather", "qtde": "10" },
+        { "key": 1, "name": "DjCap", "qtde": "1" },
+        { "key": 2, "name": "IronBracelet", "qtde": "10" },
+        { "key": 3, "name": "KarateDuck", "qtde": "10" },
+        { "key": 4, "name": "SharpLeaves", "qtde": "200" },
+        { "key": 5, "name": "Silk", "qtde": "10" },
+        { "key": 6, "name": "MagmaFoot", "qtde": "10" },
+        { "key": 7, "name": "BlackFins", "qtde": "100" },
+        { "key": 8, "name": "SamuraiHair", "qtde": "100" },
+        { "key": 9, "name": "RefinedFashionPoint", "qtde": "12" }
+      ],
+      "icon": "/icons/rankb/StreetFighter.png",
+      "qtde": "1"
+    },
+    {
+      "key": 191,
+      "name": "PowerTopaz",
+      "ingredients": [
+        { "key": 0, "name": "TechBall", "qtde": "3" },
+        { "key": 1, "name": "BigCrystal", "qtde": "5" },
+        { "key": 2, "name": "IceOrb", "qtde": "100" },
+        { "key": 3, "name": "LinearlyGuidedHypnosis", "qtde": "40" },
+        { "key": 4, "name": "ArmadilloClaw", "qtde": "350" },
+        { "key": 5, "name": "RefinedStylePoint", "qtde": "600" }
+      ],
+      "icon": "/icons/rankb/Power_Topaz.png",
+      "qtde": "1"
+    },
+    {
+      "key": 192,
+      "name": "PowerEmerald",
+      "ingredients": [
+        { "key": 0, "name": "TechBall", "qtde": "3" },
+        { "key": 1, "name": "BigCrystal", "qtde": "5" },
+        { "key": 2, "name": "IceOrb", "qtde": "100" },
+        { "key": 3, "name": "LinearlyGuidedHypnosis", "qtde": "40" },
+        { "key": 4, "name": "SandTail", "qtde": "400" },
+        { "key": 5, "name": "RefinedStylePoint", "qtde": "600" }
+      ],
+      "icon": "/icons/rankb/Power_Emerald.png",
+      "qtde": "1"
+    },
+    {
+      "key": 193,
+      "name": "PowerRuby",
+      "ingredients": [
+        { "key": 0, "name": "TechBall", "qtde": "3" },
+        { "key": 1, "name": "BigCrystal", "qtde": "5" },
+        { "key": 2, "name": "IceOrb", "qtde": "100" },
+        { "key": 3, "name": "LinearlyGuidedHypnosis", "qtde": "40" },
+        { "key": 4, "name": "Mediling", "qtde": "500" },
+        { "key": 5, "name": "RefinedStylePoint", "qtde": "600" }
+      ],
+      "icon": "/icons/rankb/Power_Ruby.png",
+      "qtde": "1"
+    },
+    {
+      "key": 194,
+      "name": "Sack",
+      "ingredients": [
+        { "key": 0, "name": "Leather", "qtde": "1" },
+        { "key": 1, "name": "Mediling", "qtde": "250" },
+        { "key": 2, "name": "Pawn", "qtde": "250" },
+        { "key": 3, "name": "Springs", "qtde": "250" },
+        { "key": 4, "name": "RefinedStylePoint", "qtde": "600" }
+      ],
+      "icon": "/icons/rankb/Sack.png",
+      "qtde": "1"
+    },
+    {
+      "key": 195,
+      "name": "BlueBunnyEar",
+      "ingredients": [
+        { "key": 0, "name": "Leather", "qtde": "3" },
+        { "key": 1, "name": "Zap", "qtde": "10" },
+        { "key": 2, "name": "RedScale", "qtde": "120" },
+        { "key": 3, "name": "BlueBall", "qtde": "20" },
+        { "key": 4, "name": "DragonTail", "qtde": "70" },
+        { "key": 5, "name": "RefinedStylePoint", "qtde": "600" }
+      ],
+      "icon": "/icons/rankb/Blue_Bunny_Ear.png",
+      "qtde": "1"
+    },
+    {
+      "key": 196,
+      "name": "PinkBunnyEar",
+      "ingredients": [
+        { "key": 0, "name": "Leather", "qtde": "3" },
+        { "key": 1, "name": "RedScale", "qtde": "120" },
+        { "key": 2, "name": "CuteBall", "qtde": "250" },
+        { "key": 3, "name": "FurBall", "qtde": "230" },
+        { "key": 4, "name": "RefinedStylePoint", "qtde": "600" }
+      ],
+      "icon": "/icons/rankb/Pink_Bunny_Ear.png",
+      "qtde": "1"
+    },
+    {
+      "key": 197,
+      "name": "TravelerBag",
+      "ingredients": [
+        { "key": 0, "name": "FireTail", "qtde": "50" },
+        { "key": 1, "name": "Cloth", "qtde": "30" },
+        { "key": 2, "name": "DragonTooth", "qtde": "7" },
+        { "key": 3, "name": "RefinedStylePoint", "qtde": "80" }
+      ],
+      "icon": "/icons/rankb/Traveler_Bag.png",
+      "qtde": "1"
+    },
+    {
+      "key": 198,
+      "name": "MafiaCap",
+      "ingredients": [
+        { "key": 0, "name": "Leather", "qtde": "3" },
+        { "key": 1, "name": "Brush", "qtde": "10" },
+        { "key": 2, "name": "CaptainHat", "qtde": "10" },
+        { "key": 3, "name": "RedCape", "qtde": "5" },
+        { "key": 4, "name": "BlackBandana", "qtde": "2" },
+        { "key": 5, "name": "BanditMask", "qtde": "4" },
+        { "key": 6, "name": "BlackFins", "qtde": "100" },
+        { "key": 7, "name": "RefinedStylePoint", "qtde": "600" }
+      ],
+      "icon": "/icons/rankb/Mafia_Cap.png",
+      "qtde": "1"
+    },
+    {
+      "key": 199,
+      "name": "SwordNinjaPack",
+      "ingredients": [
+        { "key": 0, "name": "WaterStone", "qtde": "2" },
+        { "key": 1, "name": "Silk", "qtde": "10" },
+        { "key": 2, "name": "SquirtleHull", "qtde": "150" },
+        { "key": 3, "name": "BlueDye", "qtde": "5" },
+        { "key": 4, "name": "Zap", "qtde": "15" },
+        { "key": 5, "name": "RefinedStylePoint", "qtde": "400" }
+      ],
+      "icon": "/icons/rankb/Sword_Ninja_Pack.png",
+      "qtde": "1"
+    },
+    {
+      "key": 200,
+      "name": "SaiNinjaPack",
+      "ingredients": [
+        { "key": 0, "name": "WaterStone", "qtde": "2" },
+        { "key": 1, "name": "Silk", "qtde": "10" },
+        { "key": 2, "name": "SquirtleHull", "qtde": "150" },
+        { "key": 3, "name": "RedDye", "qtde": "5" },
+        { "key": 4, "name": "LobsterClaw", "qtde": "100" },
+        { "key": 5, "name": "RefinedStylePoint", "qtde": "400" }
+      ],
+      "icon": "/icons/rankb/Sai_Ninja_Pack.png",
+      "qtde": "1"
+    },
+    {
+      "key": 201,
+      "name": "NunchakuNinjaPack",
+      "ingredients": [
+        { "key": 0, "name": "WaterStone", "qtde": "2" },
+        { "key": 1, "name": "Silk", "qtde": "10" },
+        { "key": 2, "name": "SquirtleHull", "qtde": "150" },
+        { "key": 3, "name": "RedDye", "qtde": "2" },
+        { "key": 4, "name": "YellowDye", "qtde": "3" },
+        { "key": 5, "name": "NuBall", "qtde": "150" },
+        { "key": 6, "name": "RefinedStylePoint", "qtde": "400" }
+      ],
+      "icon": "/icons/rankb/Nunchaku_Ninja_Pack.png",
+      "qtde": "1"
+    },
+    {
+      "key": 202,
+      "name": "StaffNinjaPack",
+      "ingredients": [
+        { "key": 0, "name": "WaterStone", "qtde": "2" },
+        { "key": 1, "name": "Silk", "qtde": "10" },
+        { "key": 2, "name": "SquirtleHull", "qtde": "150" },
+        { "key": 3, "name": "BlueDye", "qtde": "2" },
+        { "key": 4, "name": "PinkDye", "qtde": "3" },
+        { "key": 5, "name": "DarkMoon", "qtde": "12" },
+        { "key": 6, "name": "RefinedStylePoint", "qtde": "400" }
+      ],
+      "icon": "/icons/rankb/Staff_Ninja_Pack.png",
+      "qtde": "1"
+    },
+    {
+      "key": 203,
+      "name": "WizardHat",
+      "ingredients": [
+        { "key": 0, "name": "EnigmaStone", "qtde": "2" },
+        { "key": 1, "name": "Silk", "qtde": "10" },
+        { "key": 2, "name": "PsychicSpoon", "qtde": "100" },
+        { "key": 3, "name": "StrangeWing", "qtde": "75" },
+        { "key": 4, "name": "SlowTail", "qtde": "35" },
+        { "key": 5, "name": "RefinedStylePoint", "qtde": "400" }
+      ],
+      "icon": "/icons/rankb/Wizard_Hat-Alakazam.png",
+      "qtde": "1"
+    },
+    {
+      "key": 204,
+      "name": "MageHat",
+      "ingredients": [
+        { "key": 0, "name": "PsychicSpoon", "qtde": "50" },
+        { "key": 1, "name": "StrangeAntenna", "qtde": "60" },
+        { "key": 2, "name": "EnigmaStone", "qtde": "1" },
+        { "key": 3, "name": "StrangeTail", "qtde": "30" },
+        { "key": 4, "name": "RefinedStylePoint", "qtde": "200" }
+      ],
+      "icon": "/icons/rankb/Mage_Hat.png",
+      "qtde": "1"
+    },
+    {
+      "key": 205,
+      "name": "WarlockHat",
+      "ingredients": [
+        { "key": 0, "name": "EnigmaStone", "qtde": "2" },
+        { "key": 1, "name": "Silk", "qtde": "10" },
+        { "key": 2, "name": "PsychicSpoon", "qtde": "100" },
+        { "key": 3, "name": "LinearlyGuidedHypnosis", "qtde": "30" },
+        { "key": 4, "name": "StrangeAntenna", "qtde": "60" },
+        { "key": 5, "name": "RefinedStylePoint", "qtde": "400" }
+      ],
+      "icon": "/icons/rankb/Warlock_Hat.png",
+      "qtde": "1"
+    },
+    {
+      "key": 206,
+      "name": "WrestlingMask",
+      "ingredients": [
+        { "key": 0, "name": "SmallShell", "qtde": "20" },
+        { "key": 1, "name": "PieceOfCoral", "qtde": "30" },
+        { "key": 2, "name": "Tusk", "qtde": "150" },
+        { "key": 3, "name": "BeltOfChampion", "qtde": "25" },
+        { "key": 4, "name": "RefinedStylePoint", "qtde": "400" }
+      ],
+      "icon": "/icons/rankb/Westling_Mask.png",
+      "qtde": "1"
+    },
+    {
+      "key": 207,
+      "name": "GentlemanHat",
+      "ingredients": [
+        { "key": 0, "name": "KangaEar", "qtde": "10" },
+        { "key": 1, "name": "Leather", "qtde": "10" },
+        { "key": 2, "name": "ReindeerHorn", "qtde": "20" },
+        { "key": 3, "name": "OwlFeather", "qtde": "400" },
+        { "key": 4, "name": "RefinedFashionPoint", "qtde": "12" }
+      ],
+      "icon": "/icons/rankb/Gentleman_Hat.png",
+      "qtde": "1"
+    },
+    {
+      "key": 208,
+      "name": "MagicianHat",
+      "ingredients": [
+        { "key": 0, "name": "MimicClothes", "qtde": "35" },
+        { "key": 1, "name": "Silk", "qtde": "10" },
+        { "key": 2, "name": "BlackDye", "qtde": "5" },
+        { "key": 3, "name": "RefinedStylePoint", "qtde": "200" }
+      ],
+      "icon": "/icons/rankb/Magician_Hat.png",
+      "qtde": "1"
+    },
+    {
+      "key": 209,
+      "name": "BlackRobe",
+      "ingredients": [
+        { "key": 0, "name": "Scythe", "qtde": "100" },
+        { "key": 1, "name": "ScizorClaw", "qtde": "5" },
+        { "key": 2, "name": "InsectClaw", "qtde": "50" },
+        { "key": 3, "name": "Leather", "qtde": "5" },
+        { "key": 4, "name": "LadybugWing", "qtde": "15" },
+        { "key": 5, "name": "GligarClaw", "qtde": "15" },
+        { "key": 6, "name": "LongAntenna", "qtde": "15" },
+        { "key": 7, "name": "RefinedFashionPoint", "qtde": "12" }
+      ],
+      "icon": "/icons/rankb/Black_Robe.png",
+      "qtde": "1"
+    },
+    {
+      "key": 210,
+      "name": "MonkRobe",
+      "ingredients": [
+        { "key": 0, "name": "Scythe", "qtde": "100" },
+        { "key": 1, "name": "ScizorClaw", "qtde": "5" },
+        { "key": 2, "name": "InsectClaw", "qtde": "50" },
+        { "key": 3, "name": "Leather", "qtde": "5" },
+        { "key": 4, "name": "CrabClaw", "qtde": "10" },
+        { "key": 5, "name": "LongAntenna", "qtde": "25" },
+        { "key": 6, "name": "RefinedFashionPoint", "qtde": "12" }
+      ],
+      "icon": "/icons/rankb/Monk_Robe.png",
+      "qtde": "1"
+    },
+    {
+      "key": 211,
+      "name": "WeddingDress",
+      "ingredients": [
+        { "key": 0, "name": "IceBra", "qtde": "70" },
+        { "key": 1, "name": "SkiPoles", "qtde": "10" },
+        { "key": 2, "name": "SnowSkis", "qtde": "10" },
+        { "key": 3, "name": "Goggles", "qtde": "10" },
+        { "key": 4, "name": "StrangeSpike", "qtde": "200" },
+        { "key": 5, "name": "Silk", "qtde": "10" },
+        { "key": 6, "name": "GemStar", "qtde": "10" },
+        { "key": 7, "name": "StrangeFlower", "qtde": "50" },
+        { "key": 8, "name": "Comb", "qtde": "50" },
+        { "key": 9, "name": "CuteBall", "qtde": "250" },
+        { "key": 10, "name": "RefinedFashionPoint", "qtde": "12" }
+      ],
+      "icon": "/icons/rankb/Wedding_Dress.png",
+      "qtde": "1"
+    },
+    {
+      "key": 212,
+      "name": "WitchCostume",
+      "ingredients": [
+        { "key": 0, "name": "IceBra", "qtde": "70" },
+        { "key": 1, "name": "SkiPoles", "qtde": "10" },
+        { "key": 2, "name": "SnowSkis", "qtde": "10" },
+        { "key": 3, "name": "Goggles", "qtde": "10" },
+        { "key": 4, "name": "DarkBeak", "qtde": "40" },
+        { "key": 5, "name": "SmallTail", "qtde": "30" },
+        { "key": 6, "name": "BlackHull", "qtde": "20" },
+        { "key": 7, "name": "BigCrystal", "qtde": "30" },
+        { "key": 8, "name": "BlackFins", "qtde": "100" },
+        { "key": 9, "name": "IceBlocks", "qtde": "200" },
+        { "key": 10, "name": "RefinedFashionPoint", "qtde": "12" }
+      ],
+      "icon": "/icons/rankb/Witch_Costume-Jynx.png",
+      "qtde": "1"
+    },
+    {
+      "key": 213,
+      "name": "FlamethrowerKit",
+      "ingredients": [
+        { "key": 0, "name": "MagmaFoot", "qtde": "70" },
+        { "key": 1, "name": "FireFeather", "qtde": "200" },
+        { "key": 2, "name": "MiniVolcano", "qtde": "40" },
+        { "key": 3, "name": "FireHorseFoot", "qtde": "5" },
+        { "key": 4, "name": "StrangeBone", "qtde": "20" },
+        { "key": 5, "name": "BlackHull", "qtde": "30" },
+        { "key": 6, "name": "FireStone", "qtde": "6" },
+        { "key": 7, "name": "RefinedFashionPoint", "qtde": "12" }
+      ],
+      "icon": "/icons/rankb/Flamethrower_Kit.png",
+      "qtde": "1"
+    },
+    {
+      "key": 214,
+      "name": "WaterPendant",
+      "ingredients": [
+        { "key": 0, "name": "BeautifulScales", "qtde": "3" },
+        { "key": 1, "name": "Ruby", "qtde": "50" },
+        { "key": 2, "name": "GiantRuby", "qtde": "5" },
+        { "key": 3, "name": "RedScale", "qtde": "100" },
+        { "key": 4, "name": "RefinedStylePoint", "qtde": "400" }
+      ],
+      "icon": "/icons/rankb/Water_Pendant-Lapras.png",
+      "qtde": "1"
+    },
+    {
+      "key": 215,
+      "name": "ClassicVampireCostume",
+      "ingredients": [
+        { "key": 0, "name": "DomeFossil", "qtde": "1" },
+        { "key": 1, "name": "InsectTail", "qtde": "10" },
+        { "key": 2, "name": "RockStone", "qtde": "4" },
+        { "key": 3, "name": "RefinedStylePoint", "qtde": "200" }
+      ],
+      "icon": "/icons/rankb/Classic_Vampire_Costume.png",
+      "qtde": "1"
+    },
+    {
+      "key": 216,
+      "name": "VampireCostume",
+      "ingredients": [
+        { "key": 0, "name": "DomeFossil", "qtde": "1" },
+        { "key": 1, "name": "InsectTail", "qtde": "10" },
+        { "key": 2, "name": "RockStone", "qtde": "4" },
+        { "key": 3, "name": "RefinedStylePoint", "qtde": "200" }
+      ],
+      "icon": "/icons/rankb/Vampire_Costume.png",
+      "qtde": "1"
+    },
+    {
+      "key": 217,
+      "name": "ChefCostume",
+      "ingredients": [
+        { "key": 0, "name": "Pizza", "qtde": "3" },
+        { "key": 1, "name": "BittenApple", "qtde": "250" },
+        { "key": 2, "name": "Mushroom", "qtde": "25" },
+        { "key": 3, "name": "PlantFoot", "qtde": "100" },
+        { "key": 4, "name": "MagikarpFin", "qtde": "500" },
+        { "key": 5, "name": "SmallWing", "qtde": "20" },
+        { "key": 6, "name": "Tentacle", "qtde": "50" },
+        { "key": 7, "name": "MysticStar", "qtde": "3" },
+        { "key": 8, "name": "RefinedFashionPoint", "qtde": "12" }
+      ],
+      "icon": "/icons/rankb/Chef_Costume-Snorlax.png",
+      "qtde": "1"
+    },
+    {
+      "key": 218,
+      "name": "Chair",
+      "ingredients": [
+        { "key": 0, "name": "RusticChair", "qtde": "1" },
+        { "key": 1, "name": "FireFeather", "qtde": "10" },
+        { "key": 2, "name": "Pawn", "qtde": "10" },
+        { "key": 3, "name": "LobsterClaw", "qtde": "10" },
+        { "key": 4, "name": "NuBall", "qtde": "8" },
+        { "key": 5, "name": "Planks", "qtde": "32" }
+      ],
+      "icon": "/icons/rankb/Chair.png",
+      "qtde": "1"
+    },
+    {
+      "key": 219,
+      "name": "RusticCounter",
+      "ingredients": [
+        { "key": 0, "name": "StrongWoodenTable", "qtde": "1" },
+        { "key": 1, "name": "FireFeather", "qtde": "10" },
+        { "key": 2, "name": "FireTail", "qtde": "20" },
+        { "key": 3, "name": "ColoredFeather", "qtde": "10" },
+        { "key": 4, "name": "NuBall", "qtde": "8" },
+        { "key": 5, "name": "Planks", "qtde": "40" }
+      ],
+      "icon": "/icons/rankb/Rustic_Balcony.png",
+      "qtde": "1"
+    },
+    {
+      "key": 220,
+      "name": "WoodenStand",
+      "ingredients": [
+        { "key": 0, "name": "Farfetch'dStick", "qtde": "5" },
+        { "key": 1, "name": "FireFeather", "qtde": "10" },
+        { "key": 2, "name": "Pawn", "qtde": "10" },
+        { "key": 3, "name": "LobsterClaw", "qtde": "10" },
+        { "key": 4, "name": "NuBall", "qtde": "8" },
+        { "key": 5, "name": "Planks", "qtde": "32" }
+      ],
+      "icon": "/icons/rankb/Wooden_Stand.png",
+      "qtde": "1"
+    },
+    {
+      "key": 221,
+      "name": "ClassicFurniture",
+      "ingredients": [
+        { "key": 0, "name": "GreatPetal", "qtde": "30" },
+        { "key": 1, "name": "FireFeather", "qtde": "10" },
+        { "key": 2, "name": "HotFur", "qtde": "10" },
+        { "key": 3, "name": "Planks", "qtde": "40" }
+      ],
+      "icon": "/icons/rankb/Classic_Furniture.png",
+      "qtde": "1"
+    },
+    {
+      "key": 222,
+      "name": "ClassicClock",
+      "ingredients": [
+        { "key": 0, "name": "SteelWing", "qtde": "20" },
+        { "key": 1, "name": "SpinMachine", "qtde": "15" },
+        { "key": 2, "name": "Planks", "qtde": "40" }
+      ],
+      "icon": "/icons/rankb/Classic_Clock.png",
+      "qtde": "1"
+    },
+    {
+      "key": 223,
+      "name": "ClassicWardrobe",
+      "ingredients": [
+        { "key": 0, "name": "Silk", "qtde": "3" },
+        { "key": 1, "name": "ShockTopknot", "qtde": "25" },
+        { "key": 2, "name": "Planks", "qtde": "40" }
+      ],
+      "icon": "/icons/rankb/Classic_Wardrobe.png",
+      "qtde": "1"
+    },
+    {
+      "key": 224,
+      "name": "ClassicBookcase",
+      "ingredients": [
+        { "key": 0, "name": "LinearlyGuidedHypnosis", "qtde": "25" },
+        { "key": 1, "name": "BatWing", "qtde": "10" },
+        { "key": 2, "name": "PointOfLight", "qtde": "10" },
+        { "key": 3, "name": "Planks", "qtde": "80" }
+      ],
+      "icon": "/icons/rankb/Classic_Bookcase.png",
+      "qtde": "1"
+    },
+    {
+      "key": 225,
+      "name": "ClassicDresser",
+      "ingredients": [
+        { "key": 0, "name": "BigCrystal", "qtde": "6" },
+        { "key": 1, "name": "IceBra", "qtde": "6" },
+        { "key": 2, "name": "Planks", "qtde": "80" }
+      ],
+      "icon": "/icons/rankb/Classic_Dresser.png",
+      "qtde": "1"
+    },
+    {
+      "key": 226,
+      "name": "AbraBed",
+      "ingredients": [
+        { "key": 0, "name": "WhiteBed", "qtde": "1" },
+        { "key": 1, "name": "PsycraftTapestry", "qtde": "2" },
+        { "key": 2, "name": "PsychicSpoon", "qtde": "100" },
+        { "key": 3, "name": "Planks", "qtde": "200" }
+      ],
+      "icon": "/icons/rankb/Abra_Bed.png",
+      "qtde": "1"
+    },
+    {
+      "key": 227,
+      "name": "BulbasaurBed",
+      "ingredients": [
+        { "key": 0, "name": "WhiteBed", "qtde": "1" },
+        { "key": 1, "name": "NaturiaTapestry", "qtde": "2" },
+        { "key": 2, "name": "Bulb", "qtde": "150" },
+        { "key": 3, "name": "Planks", "qtde": "200" }
+      ],
+      "icon": "/icons/rankb/Bulbasaur_BEd.png",
+      "qtde": "1"
+    },
+    {
+      "key": 228,
+      "name": "ScytherBed",
+      "ingredients": [
+        { "key": 0, "name": "WhiteBed", "qtde": "1" },
+        { "key": 1, "name": "NaturiaTapestry", "qtde": "2" },
+        { "key": 2, "name": "Scythe", "qtde": "20" },
+        { "key": 3, "name": "Planks", "qtde": "200" }
+      ],
+      "icon": "/icons/rankb/Scyther_Bed.png",
+      "qtde": "1"
+    },
+    {
+      "key": 229,
+      "name": "UmbreonBed",
+      "ingredients": [
+        { "key": 0, "name": "WhiteBed", "qtde": "1" },
+        { "key": 1, "name": "MaleficTapestry", "qtde": "2" },
+        { "key": 2, "name": "DarkBeak", "qtde": "10" },
+        { "key": 3, "name": "DarkMoon", "qtde": "15" },
+        { "key": 4, "name": "Planks", "qtde": "200" }
+      ],
+      "icon": "/icons/rankb/Umbreon_Bed.png",
+      "qtde": "1"
+    },
+    {
+      "key": 230,
+      "name": "VaporeonBed",
+      "ingredients": [
+        { "key": 0, "name": "WhiteBed", "qtde": "1" },
+        { "key": 1, "name": "SeavellTapestry", "qtde": "2" },
+        { "key": 2, "name": "GyaradosTail", "qtde": "10" },
+        { "key": 3, "name": "LobsterClaw", "qtde": "100" },
+        { "key": 4, "name": "Planks", "qtde": "200" }
+      ],
+      "icon": "/icons/rankb/Vaporeon_Bed.png",
+      "qtde": "1"
+    },
+    {
+      "key": 231,
+      "name": "LucarioBed",
+      "ingredients": [
+        { "key": 0, "name": "WhiteBed", "qtde": "1" },
+        { "key": 1, "name": "GardestrikeTapestry", "qtde": "2" },
+        { "key": 2, "name": "MetalJaw", "qtde": "50" },
+        { "key": 3, "name": "MetalHull", "qtde": "35" },
+        { "key": 4, "name": "Planks", "qtde": "200" }
+      ],
+      "icon": "/icons/rankb/Lucario_Bed.png",
+      "qtde": "1"
+    },
+    {
+      "key": 232,
+      "name": "PidgeotBed",
+      "ingredients": [
+        { "key": 0, "name": "WhiteBed", "qtde": "1" },
+        { "key": 1, "name": "WingeonTapestry", "qtde": "2" },
+        { "key": 2, "name": "ColoredFeather", "qtde": "120" },
+        { "key": 3, "name": "Planks", "qtde": "200" }
+      ],
+      "icon": "/icons/rankb/Pidgeot_Bed.png",
+      "qtde": "1"
+    },
+    {
+      "key": 233,
+      "name": "RaichuBed",
+      "ingredients": [
+        { "key": 0, "name": "WhiteBed", "qtde": "1" },
+        { "key": 1, "name": "RaiboltTapestry", "qtde": "2" },
+        { "key": 2, "name": "ElectricRatTail", "qtde": "150" },
+        { "key": 3, "name": "Planks", "qtde": "200" }
+      ],
+      "icon": "/icons/rankb/Raichu_Bed.png",
+      "qtde": "1"
+    },
+    {
+      "key": 234,
+      "name": "MarowakBed",
+      "ingredients": [
+        { "key": 0, "name": "WhiteBed", "qtde": "1" },
+        { "key": 1, "name": "OreboundTapestry", "qtde": "2" },
+        { "key": 2, "name": "Bone", "qtde": "160" },
+        { "key": 3, "name": "Planks", "qtde": "200" }
+      ],
+      "icon": "/icons/rankb/Marowak_Bed.png",
+      "qtde": "1"
+    },
+    {
+      "key": 235,
+      "name": "BlackjackTable",
+      "ingredients": [
+        { "key": 0, "name": "LuckMedallion", "qtde": "3" },
+        { "key": 1, "name": "PunchMachine", "qtde": "22" },
+        { "key": 2, "name": "Planks", "qtde": "40" }
+      ],
+      "icon": "/icons/rankb/Blackjack_Table.png",
+      "qtde": "1"
+    },
+    {
+      "key": 236,
+      "name": "RouletteTable",
+      "ingredients": [
+        { "key": 0, "name": "LuckMedallion", "qtde": "3" },
+        { "key": 1, "name": "SpinMachine", "qtde": "22" },
+        { "key": 2, "name": "Planks", "qtde": "40" }
+      ],
+      "icon": "/icons/rankb/Roulette_Table.png",
+      "qtde": "1"
+    },
+    {
+      "key": 237,
+      "name": "BulbasaurBigFigure",
+      "ingredients": [
+        { "key": 0, "name": "Bulb", "qtde": "50" },
+        { "key": 1, "name": "GreatPetal", "qtde": "50" },
+        { "key": 2, "name": "Greens", "qtde": "50" },
+        { "key": 3, "name": "Planks", "qtde": "100" }
+      ],
+      "icon": "/icons/rankb/Bulbafigure.png",
+      "qtde": "1"
+    },
+    {
+      "key": 238,
+      "name": "SquirtleBigFigure",
+      "ingredients": [
+        { "key": 0, "name": "SquirtleHull", "qtde": "50" },
+        { "key": 1, "name": "RedScale", "qtde": "50" },
+        { "key": 2, "name": "BlackFins", "qtde": "50" },
+        { "key": 3, "name": "Planks", "qtde": "100" }
+      ],
+      "icon": "/icons/rankb/Squirtlefigure.png",
+      "qtde": "1"
+    },
+    {
+      "key": 239,
+      "name": "CharmanderBigFigure",
+      "ingredients": [
+        { "key": 0, "name": "FireTail", "qtde": "50" },
+        { "key": 1, "name": "HotFur", "qtde": "50" },
+        { "key": 2, "name": "FireFeather", "qtde": "50" },
+        { "key": 3, "name": "Planks", "qtde": "100" }
+      ],
+      "icon": "/icons/rankb/",
+      "qtde": "1"
+    },
+    {
+      "key": 240,
+      "name": "RapidashToy",
+      "ingredients": [
+        { "key": 0, "name": "FireHorseFoot", "qtde": "10" },
+        { "key": 1, "name": "GiantPieceOfFur", "qtde": "30" },
+        { "key": 2, "name": "MiniVolcano", "qtde": "3" },
+        { "key": 3, "name": "BlackHull", "qtde": "20" },
+        { "key": 4, "name": "Planks", "qtde": "80" }
+      ],
+      "icon": "/icons/rankb/Rapidash_Toy.png",
+      "qtde": "1"
+    },
+    {
+      "key": 241,
+      "name": "BlueRapidashToy",
+      "ingredients": [
+        { "key": 0, "name": "RapidashToy", "qtde": "1" },
+        { "key": 1, "name": "BlueDye", "qtde": "10" }
+      ],
+      "icon": "/icons/rankb/Blue_Rapidash_Toy.png",
+      "qtde": "1"
+    },
+    {
+      "key": 242,
+      "name": "UnpackedToy",
+      "ingredients": [
+        { "key": 0, "name": "Leather", "qtde": "1" },
+        { "key": 1, "name": "FutureOrb", "qtde": "80" },
+        { "key": 2, "name": "RefinedStylePoint", "qtde": "70" }
+      ],
+      "icon": "/icons/rankb/UnpackedToy.png",
+      "qtde": "1"
+    },
+    {
+      "key": 243,
+      "name": "PikachuTapestry",
+      "ingredients": [
+        { "key": 0, "name": "Silk", "qtde": "1" },
+        { "key": 1, "name": "WhiteTapestry", "qtde": "1" },
+        { "key": 2, "name": "YellowDye", "qtde": "3" },
+        { "key": 3, "name": "ElectricRatTail", "qtde": "7" },
+        { "key": 4, "name": "RefinedStylePoint", "qtde": "32" }
+      ],
+      "icon": "/icons/rankb/Pikachu_Tapestry.png",
+      "qtde": "1"
+    },
+    {
+      "key": 244,
+      "name": "BlueOfficialTapestry",
+      "ingredients": [
+        { "key": 0, "name": "Silk", "qtde": "10" },
+        { "key": 1, "name": "WhiteTapestry", "qtde": "1" },
+        { "key": 2, "name": "BlueDye", "qtde": "5" },
+        { "key": 3, "name": "KarateDuck", "qtde": "10" },
+        { "key": 4, "name": "GiantBatWing", "qtde": "100" },
+        { "key": 5, "name": "RefinedStylePoint", "qtde": "200" }
+      ],
+      "icon": "/icons/rankb/Blue_Official_Tapestry.png",
+      "qtde": "1"
+    },
+    {
+      "key": 245,
+      "name": "OfficialTapestry",
+      "ingredients": [
+        { "key": 0, "name": "Silk", "qtde": "10" },
+        { "key": 1, "name": "WhiteTapestry", "qtde": "1" },
+        { "key": 2, "name": "RedDye", "qtde": "5" },
+        { "key": 3, "name": "FireEar", "qtde": "15" },
+        { "key": 4, "name": "ScizorClaw", "qtde": "6" },
+        { "key": 5, "name": "RefinedStylePoint", "qtde": "200" }
+      ],
+      "icon": "/icons/rankb/Official_Tapestry.png",
+      "qtde": "1"
+    },
+    {
+      "key": 246,
+      "name": "VenusaurTapestry",
+      "ingredients": [
+        { "key": 0, "name": "Silk", "qtde": "5" },
+        { "key": 1, "name": "WhiteTapestry", "qtde": "1" },
+        { "key": 2, "name": "GreenDye", "qtde": "5" },
+        { "key": 3, "name": "BagOfPollen", "qtde": "50" },
+        { "key": 4, "name": "Leaves", "qtde": "250" },
+        { "key": 5, "name": "Bulb", "qtde": "50" },
+        { "key": 6, "name": "RefinedStylePoint", "qtde": "100" }
+      ],
+      "icon": "/icons/rankb/Venusaur_Tapestry.png",
+      "qtde": "1"
+    },
+    {
+      "key": 247,
+      "name": "BlastoiseTapestry",
+      "ingredients": [
+        { "key": 0, "name": "Silk", "qtde": "5" },
+        { "key": 1, "name": "WhiteTapestry", "qtde": "1" },
+        { "key": 2, "name": "BlueDye", "qtde": "5" },
+        { "key": 3, "name": "WaterPendant", "qtde": "250" },
+        { "key": 4, "name": "SquirtleHull", "qtde": "60" },
+        { "key": 5, "name": "RefinedStylePoint", "qtde": "100" }
+      ],
+      "icon": "/icons/rankb/Blastoise_Tapestry.png",
+      "qtde": "1"
+    },
+    {
+      "key": 248,
+      "name": "CharizardTapestry",
+      "ingredients": [
+        { "key": 0, "name": "Silk", "qtde": "5" },
+        { "key": 1, "name": "WhiteTapestry", "qtde": "1" },
+        { "key": 2, "name": "RedDye", "qtde": "5" },
+        { "key": 3, "name": "DragonTooth", "qtde": "5" },
+        { "key": 4, "name": "PotOfLava", "qtde": "250" },
+        { "key": 5, "name": "FireTail", "qtde": "20" },
+        { "key": 6, "name": "RefinedStylePoint", "qtde": "100" }
+      ],
+      "icon": "/icons/rankb/Charizard_Tapestry.png",
+      "qtde": "1"
+    }
+  ]
+}

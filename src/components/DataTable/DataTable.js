@@ -1,5 +1,5 @@
 import React, { useState, useRef } from "react";
-import { SearchOutlined } from "@ant-design/icons";
+import { SearchOutlined} from "@ant-design/icons";
 import { Button, Input, Space, Table } from "antd";
 import Highlighter from "react-highlight-words";
 import { Container, Icon, MinorIcon, MultiplierInput } from "./styles";
@@ -7,6 +7,7 @@ import { Container, Icon, MinorIcon, MultiplierInput } from "./styles";
 const DataTable = (props) => {
   const { data } = props;
   const dataContent = data.crafts;
+  console.log(dataContent)
   const [multipleCrafts, setMultipleCrafts] = useState(2);
   const [searchText, setSearchText] = useState("");
   const [searchedColumn, setSearchedColumn] = useState("");
@@ -97,7 +98,7 @@ const DataTable = (props) => {
     filterIcon: (filtered) => (
       <SearchOutlined
         style={{
-          color: filtered ? "#1677ff" : undefined,
+          color: filtered ? "#1677ff" : "#FC2947",
         }}
       />
     ),

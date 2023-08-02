@@ -26,6 +26,7 @@ const menuItems = [
     getItem(<Link to="/EstilistaB">Rank B</Link>, "6"),
   ]),
   getItem(<Link to="/Tailoring">Tailoring Addons</Link>, "7", <SkinOutlined />),
+  getItem(<Link to="/Links">Links</Link>, "8", <SkinOutlined />),
 ];
 
 export default menuItems;

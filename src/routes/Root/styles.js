@@ -14,7 +14,10 @@ export const StyledContainer = styled.div`
 
 export const SpaceStyled = styled(Space)`
     width: 100%;
+    justify-content: space-between;
     .ant-space-item{
+        display: flex;
         width: 100%;
+        justify-content: center;
     }
 `;
